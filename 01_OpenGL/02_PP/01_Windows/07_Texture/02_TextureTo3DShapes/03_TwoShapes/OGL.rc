@@ -1,0 +1,7 @@
+
+
+#include "OGL.h"
+
+MY_LOGO	ICON	".\\mylogo.ico"
+IDB_STONE	BITMAP	".\\Stone.bmp"
+IDB_KUNDALI	BITMAP	".\\Vijay_Kundali.bmp"

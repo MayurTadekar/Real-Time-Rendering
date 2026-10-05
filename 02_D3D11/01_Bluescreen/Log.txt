@@ -1,0 +1,15 @@
+Log file is successfully opened
+Graphics Card Name = NVIDIA GeForce RTX 4060
+Graphic Card VRAM = 8343519232 bytes
+VRAM in GB = 8
+PrintD3DInfo() succeeded
+D3D11CreateDeviceAndSwapChain() succeeded
+The Chosen Driver Is Of Hardware Type
+The Supported Highest Feature Level Is 11.0
+ID3D11Device::CreateRenderTargetView() succeeded
+resize() succeeded
+initialize() succeeded....
+uninitialize() succeeded
+Log File is successfully closed
+uninitialize() succeeded
+Log File is successfully closed

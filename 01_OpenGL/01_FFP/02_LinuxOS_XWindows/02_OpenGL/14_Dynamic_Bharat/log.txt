@@ -1,0 +1,7 @@
+window started successfully
+Successfully loaded MP3 file: jayostute.mp3
+toggleFullscreen() called
+Animation Started
+Audio Playback Started
+toggleFullscreen() called
+program terminated successfully

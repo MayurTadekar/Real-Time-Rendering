@@ -1,0 +1,6 @@
+
+
+#include "window.h"
+
+MY_LOGO	ICON	".\\mylogo.ico"
+

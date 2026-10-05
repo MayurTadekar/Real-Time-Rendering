@@ -1,0 +1,2247 @@
+
+NEW_FILE: 
+|-----DIR : 01_Bluescreen - Date : Sunday - February 23, 2025 - 9:20:7:794 PM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Sunday - February 23, 2025 - 9:20:25:592 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Sunday - February 23, 2025 - 9:30:14:284 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Sunday - February 23, 2025 - 9:20:25:582 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Sunday - February 23, 2025 - 9:20:25:577 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Sunday - February 23, 2025 - 9:30:14:193 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Sunday - February 23, 2025 - 9:20:25:580 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Sunday - February 23, 2025 - 9:29:3:918 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Sunday - February 23, 2025 - 9:20:25:586 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Sunday - February 23, 2025 - 9:26:56:744 PM
+
+NEW_FILE: 
+	|-----FILE : output.png - Date : Sunday - February 23, 2025 - 9:33:55:326 PM
+
+NEW_FILE: 
+|-----DIR : 02_GLTriangleWithoutGLUT - Date : Sunday - February 23, 2025 - 9:34:10:732 PM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Sunday - February 23, 2025 - 9:34:10:734 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Sunday - February 23, 2025 - 9:34:10:734 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Sunday - February 23, 2025 - 9:34:10:736 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Sunday - February 23, 2025 - 9:34:10:739 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 1:45:25:477 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Sunday - February 23, 2025 - 9:34:10:740 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Sunday - February 23, 2025 - 9:34:10:742 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Sunday - February 23, 2025 - 9:34:10:743 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Sunday - February 23, 2025 - 9:34:10:744 PM
+
+NEW_FILE: 
+	|-----FILE : output_01.png - Date : Sunday - February 23, 2025 - 9:38:7:984 PM
+
+NEW_FILE: 
+	|-----FILE : output_02.png - Date : Sunday - February 23, 2025 - 9:38:16:102 PM
+
+NEW_FILE: 
+|-----DIR : 03_GLInfo - Date : Thursday - March 27, 2025 - 0:33:29:669 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:33:36:20 AM
+
+NEW_FILE: 
+	|-----FILE : GLInfoLogFile.txt - Date : Thursday - March 27, 2025 - 0:33:36:18 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:33:36:8 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:33:36:2 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:33:36:1 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:33:36:6 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:33:35:999 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:33:36:15 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:33:36:4 AM
+
+NEW_FILE: 
+	|-----FILE : output.png - Date : Thursday - March 27, 2025 - 0:33:36:12 AM
+
+NEW_FILE: 
+|-----DIR : 04_Ortho - Date : Thursday - March 20, 2025 - 12:45:6:628 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:9:56:979 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:11:41:837 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:9:56:973 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:9:56:969 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:11:41:760 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:9:56:971 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:10:53:69 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:9:56:977 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:10:19:669 PM
+
+NEW_FILE: 
+	|-----FILE : output.png - Date : Thursday - March 20, 2025 - 1:25:4:88 PM
+
+NEW_FILE: 
+|-----DIR : 05_Perspective - Date : Thursday - March 20, 2025 - 12:45:12:573 AM
+
+NEW_FILE: 
+	|-----DIR : 01_BlackAndWhite - Date : Thursday - March 20, 2025 - 12:46:21:608 AM
+
+NEW_FILE: 
+		|-----DIR : 01_SingleShape - Date : Thursday - March 27, 2025 - 0:34:0:519 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Triangle - Date : Thursday - March 27, 2025 - 0:34:7:11 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:26:29:734 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:31:46:955 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:26:29:729 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:26:29:724 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:32:22:816 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:26:29:728 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:31:22:768 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:26:29:733 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:31:22:784 PM
+
+NEW_FILE: 
+				|-----FILE : output.png - Date : Thursday - March 20, 2025 - 1:33:17:678 PM
+
+NEW_FILE: 
+			|-----DIR : 02_Rectangle - Date : Thursday - March 27, 2025 - 0:34:10:117 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:35:43:104 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:35:43:106 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:35:43:107 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:35:43:108 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:35:43:110 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:35:43:111 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:35:43:111 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:35:43:112 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:35:43:113 PM
+
+NEW_FILE: 
+				|-----FILE : output.png - Date : Thursday - March 20, 2025 - 1:38:56:825 PM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShape - Date : Thursday - March 27, 2025 - 0:35:34:51 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:35:46:123 AM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:35:46:121 AM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:35:46:112 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:35:46:106 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:35:46:104 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:35:46:110 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:35:46:102 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:35:46:118 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:35:46:108 AM
+
+NEW_FILE: 
+			|-----FILE : output.png - Date : Thursday - March 27, 2025 - 0:35:46:115 AM
+
+NEW_FILE: 
+	|-----DIR : 02_Coloured - Date : Thursday - March 20, 2025 - 12:46:29:264 AM
+
+NEW_FILE: 
+		|-----DIR : 01_SingleShape - Date : Thursday - March 27, 2025 - 0:35:9:544 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Triangle - Date : Thursday - March 27, 2025 - 0:35:16:464 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:33:36:5 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:33:36:3 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:33:35:998 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:33:35:991 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:33:35:989 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:33:35:996 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:33:35:988 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:33:36:2 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:33:35:994 PM
+
+NEW_FILE: 
+			|-----DIR : 02_Rectangle - Date : Thursday - March 20, 2025 - 12:45:24:924 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 1:28:1:622 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 1:28:1:621 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 1:28:1:610 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 1:28:1:604 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 1:28:1:602 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 1:28:1:608 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 1:28:1:599 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 1:28:1:615 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 1:28:1:606 PM
+
+NEW_FILE: 
+				|-----FILE : output.png - Date : Saturday - April 26, 2025 - 1:28:1:613 PM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShape - Date : Thursday - March 27, 2025 - 0:37:10:729 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:37:29:160 AM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:37:29:158 AM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:37:29:150 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:37:29:145 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:37:29:143 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:37:29:148 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:37:29:140 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:37:29:155 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:37:29:146 AM
+
+NEW_FILE: 
+			|-----FILE : output.png - Date : Thursday - March 27, 2025 - 0:37:29:153 AM
+
+NEW_FILE: 
+|-----DIR : 06_2DRotation - Date : Thursday - March 20, 2025 - 12:45:48:532 AM
+
+NEW_FILE: 
+	|-----DIR : 01_BlackAndWhite - Date : Thursday - March 20, 2025 - 12:46:49:512 AM
+
+NEW_FILE: 
+		|-----DIR : 01_SingleShape - Date : Thursday - March 20, 2025 - 12:47:10:493 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Triangle - Date : Thursday - March 20, 2025 - 12:47:27:285 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:46:43:113 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:46:43:111 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:46:43:105 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:46:43:99 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:46:43:98 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:46:43:103 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:46:43:96 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:46:43:110 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:46:43:101 PM
+
+NEW_FILE: 
+				|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 1:52:37:910 PM
+
+NEW_FILE: 
+			|-----DIR : 02_Rectangle - Date : Thursday - March 20, 2025 - 12:47:33:232 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:47:7:563 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:47:7:561 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:47:7:555 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:47:7:550 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:47:7:548 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:47:7:553 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:47:7:546 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:47:7:560 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:47:7:552 PM
+
+NEW_FILE: 
+				|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 1:55:48:760 PM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShapes - Date : Thursday - March 20, 2025 - 12:47:17:608 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:46:1:744 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:46:1:743 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:46:1:735 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:46:1:731 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:46:1:729 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:46:1:734 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:46:1:727 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:46:1:741 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:46:1:732 PM
+
+NEW_FILE: 
+			|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 1:58:43:178 PM
+
+NEW_FILE: 
+	|-----DIR : 02_Coloured - Date : Thursday - March 20, 2025 - 12:46:49:509 AM
+
+NEW_FILE: 
+		|-----DIR : 01_SingleShape - Date : Thursday - March 20, 2025 - 12:48:1:14 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Triangle - Date : Thursday - March 20, 2025 - 12:48:1:15 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:46:54:933 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:46:54:931 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:46:54:924 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:46:54:919 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:46:54:917 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:46:54:922 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:46:54:915 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:46:54:929 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:46:54:920 PM
+
+NEW_FILE: 
+				|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 2:0:19:493 PM
+
+NEW_FILE: 
+			|-----DIR : 02_Rectangle - Date : Thursday - March 20, 2025 - 12:48:1:16 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:47:24:698 PM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:47:24:696 PM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:47:24:688 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:47:24:683 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:47:24:681 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:47:24:687 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:47:24:680 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:47:24:695 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:47:24:685 PM
+
+NEW_FILE: 
+				|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 2:1:49:126 PM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShapes - Date : Thursday - March 20, 2025 - 12:48:1:19 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 20, 2025 - 1:46:15:253 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 20, 2025 - 1:46:15:251 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 20, 2025 - 1:46:15:245 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 20, 2025 - 1:46:15:239 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 20, 2025 - 1:46:15:237 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 20, 2025 - 1:46:15:243 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 20, 2025 - 1:46:15:235 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 20, 2025 - 1:46:15:250 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 20, 2025 - 1:46:15:241 PM
+
+NEW_FILE: 
+			|-----FILE : output.mp4 - Date : Thursday - March 20, 2025 - 2:2:57:443 PM
+
+NEW_FILE: 
+|-----DIR : 07_3D_Rotation - Date : Sunday - March 23, 2025 - 0:25:53:321 AM
+
+NEW_FILE: 
+	|-----DIR : 01-BW - Date : Sunday - March 23, 2025 - 0:25:56:634 AM
+
+NEW_FILE: 
+		|-----DIR : 01_Single_Shape - Date : Thursday - March 27, 2025 - 0:17:16:861 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Pyramid - Date : Thursday - March 27, 2025 - 0:6:26:17 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:6:26:19 AM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:6:26:20 AM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:6:26:21 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:6:26:24 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:6:26:25 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:6:26:26 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:6:26:27 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:6:26:29 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:6:26:30 AM
+
+NEW_FILE: 
+			|-----DIR : 02_Cube - Date : Thursday - March 27, 2025 - 0:9:4:429 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:9:4:431 AM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:9:4:431 AM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:9:4:432 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:9:4:434 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:9:4:436 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:9:4:438 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:9:4:439 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:9:4:439 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:9:4:440 AM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShape - Date : Thursday - March 27, 2025 - 0:17:34:487 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:17:54:234 AM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:17:54:232 AM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:17:54:226 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:17:54:219 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:17:54:218 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:17:54:224 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:17:54:216 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:17:54:230 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:17:54:223 AM
+
+NEW_FILE: 
+	|-----DIR : 02_Coloured - Date : Sunday - March 23, 2025 - 0:26:2:317 AM
+
+NEW_FILE: 
+		|-----DIR : 01_SingleShape - Date : Thursday - March 27, 2025 - 0:22:33:424 AM
+
+NEW_FILE: 
+			|-----DIR : 01_Pyramid - Date : Sunday - March 23, 2025 - 0:27:14:391 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Sunday - March 23, 2025 - 0:27:14:392 AM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Sunday - March 23, 2025 - 0:30:32:64 AM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Sunday - March 23, 2025 - 0:27:14:397 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Sunday - March 23, 2025 - 0:27:14:401 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Wednesday - March 26, 2025 - 11:28:9:400 PM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Sunday - March 23, 2025 - 0:27:14:403 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Sunday - March 23, 2025 - 0:30:31:878 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Sunday - March 23, 2025 - 0:27:14:405 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Sunday - March 23, 2025 - 0:30:31:903 AM
+
+NEW_FILE: 
+			|-----DIR : 02_Cube - Date : Thursday - March 27, 2025 - 0:13:36:850 AM
+
+NEW_FILE: 
+				|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:13:36:852 AM
+
+NEW_FILE: 
+				|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:13:36:853 AM
+
+NEW_FILE: 
+				|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:13:36:855 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:13:36:857 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:13:36:857 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:13:36:858 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:13:36:859 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:13:36:861 AM
+
+NEW_FILE: 
+				|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:13:36:862 AM
+
+NEW_FILE: 
+		|-----DIR : 02_TwoShapes - Date : Thursday - March 27, 2025 - 0:22:42:697 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Thursday - March 27, 2025 - 0:22:54:521 AM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Thursday - March 27, 2025 - 0:22:54:519 AM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Thursday - March 27, 2025 - 0:22:54:514 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Thursday - March 27, 2025 - 0:22:54:509 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Thursday - March 27, 2025 - 0:22:54:507 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Thursday - March 27, 2025 - 0:22:54:512 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Thursday - March 27, 2025 - 0:22:54:505 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Thursday - March 27, 2025 - 0:22:54:517 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Thursday - March 27, 2025 - 0:22:54:510 AM
+
+NEW_FILE: 
+|-----DIR : 08_Depth_Template - Date : Wednesday - March 26, 2025 - 11:35:22:778 PM
+
+NEW_FILE: 
+	|-----DIR : 01_BlackAndWhite - Date : Wednesday - March 26, 2025 - 11:53:57:76 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Wednesday - March 26, 2025 - 11:53:57:77 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Wednesday - March 26, 2025 - 11:53:57:81 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Wednesday - March 26, 2025 - 11:53:57:83 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Wednesday - March 26, 2025 - 11:53:57:84 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Wednesday - March 26, 2025 - 11:53:57:85 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Wednesday - March 26, 2025 - 11:53:57:86 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Wednesday - March 26, 2025 - 11:53:57:87 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Wednesday - March 26, 2025 - 11:53:57:88 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Wednesday - March 26, 2025 - 11:53:57:90 PM
+
+NEW_FILE: 
+		|-----FILE : output.png - Date : Wednesday - March 26, 2025 - 11:53:57:91 PM
+
+NEW_FILE: 
+|-----DIR : 09_LookAt - Date : Wednesday - March 26, 2025 - 11:34:30:504 PM
+
+NEW_FILE: 
+	|-----DIR : 01_Triangle - Date : Wednesday - March 26, 2025 - 11:36:58:565 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Wednesday - March 26, 2025 - 11:36:58:568 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Wednesday - March 26, 2025 - 11:36:58:570 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Wednesday - March 26, 2025 - 11:36:58:572 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Wednesday - March 26, 2025 - 11:36:58:574 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Wednesday - March 26, 2025 - 11:48:34:664 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Wednesday - March 26, 2025 - 11:36:58:576 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Wednesday - March 26, 2025 - 11:36:58:578 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Wednesday - March 26, 2025 - 11:36:58:579 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Wednesday - March 26, 2025 - 11:36:58:580 PM
+
+NEW_FILE: 
+		|-----FILE : output.png - Date : Wednesday - March 26, 2025 - 11:53:21:33 PM
+
+NEW_FILE: 
+|-----DIR : 10_Manual_Transformation - Date : Tuesday - April 22, 2025 - 0:39:12:52 AM
+
+NEW_FILE: 
+	|-----DIR : 01_ModelViewTransformation - Date : Saturday - April 26, 2025 - 12:32:21:975 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 2:20:39:2 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 2:20:39:0 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 2:20:38:994 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 2:20:38:989 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 2:44:5:112 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 2:20:38:992 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 2:20:39:6 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 2:20:38:997 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 2:20:38:990 PM
+
+NEW_FILE: 
+	|-----DIR : 02_ProjectionTransformation - Date : Saturday - April 26, 2025 - 12:33:29:380 AM
+
+NEW_FILE: 
+		|-----DIR : 01_Orthographic_Projection - Date : Tuesday - April 22, 2025 - 0:39:12:56 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 12:33:55:820 AM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 12:33:55:819 AM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 12:33:55:810 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 12:33:55:804 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 12:33:55:803 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 12:33:55:809 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 12:33:55:822 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 12:33:55:815 AM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 12:33:55:806 AM
+
+NEW_FILE: 
+			|-----FILE : output.png - Date : Saturday - April 26, 2025 - 12:33:55:813 AM
+
+NEW_FILE: 
+		|-----DIR : 02_Perspective_Projection - Date : Tuesday - April 22, 2025 - 0:39:12:58 AM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 3:2:29:998 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 3:2:29:997 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 3:2:29:987 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 3:2:29:981 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 3:7:36:187 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 3:2:29:985 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 3:2:30:0 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 3:2:29:992 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 3:2:29:983 PM
+
+NEW_FILE: 
+			|-----FILE : output.png - Date : Saturday - April 26, 2025 - 3:2:29:991 PM
+
+NEW_FILE: 
+|-----DIR : 11_Multi_Viewport - Date : Tuesday - April 22, 2025 - 0:40:11:894 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 0:40:11:897 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 0:40:11:898 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 0:40:11:899 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 0:40:11:902 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 0:40:11:903 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 0:40:11:904 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 0:40:11:906 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 0:40:11:908 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 0:40:11:908 AM
+
+NEW_FILE: 
+	|-----FILE : output.mp4 - Date : Tuesday - April 22, 2025 - 0:40:11:910 AM
+
+NEW_FILE: 
+|-----DIR : 12_Pattern - Date : Tuesday - April 22, 2025 - 0:40:56:116 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 0:40:56:119 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 0:40:56:120 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 0:40:56:121 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 0:40:56:124 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 0:40:56:125 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 0:40:56:126 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 0:40:56:126 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 0:40:56:127 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 0:40:56:128 AM
+
+NEW_FILE: 
+	|-----FILE : output.png - Date : Tuesday - April 22, 2025 - 0:40:56:129 AM
+
+NEW_FILE: 
+|-----DIR : 13_Camera_Rotation - Date : Tuesday - April 22, 2025 - 0:40:56:74 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 0:40:56:77 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 0:40:56:80 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 0:40:56:81 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 0:40:56:84 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 0:40:56:85 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 0:40:56:86 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 0:40:56:86 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 0:40:56:88 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 0:40:56:89 AM
+
+NEW_FILE: 
+	|-----FILE : output.mp4 - Date : Tuesday - April 22, 2025 - 1:3:17:88 AM
+
+NEW_FILE: 
+|-----DIR : 14_Point_At_Center - Date : Tuesday - April 22, 2025 - 1:6:23:537 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:6:23:539 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:7:8:243 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:6:23:541 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:6:23:543 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:7:8:143 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:6:23:545 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:7:8:82 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:6:23:546 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:7:8:101 AM
+
+NEW_FILE: 
+|-----DIR : 15_RedHorizontalLine - Date : Tuesday - April 22, 2025 - 1:9:30:544 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:9:30:546 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:9:30:548 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:9:30:548 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:9:30:550 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:9:30:551 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:9:30:552 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:9:30:554 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:9:30:554 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:9:30:555 AM
+
+NEW_FILE: 
+|-----DIR : 16_GreenVerticalLine - Date : Tuesday - April 22, 2025 - 1:13:15:332 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:13:15:334 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:13:15:335 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:13:15:337 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:13:15:338 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:13:15:339 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:13:15:340 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:13:15:342 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:13:15:343 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:13:15:343 AM
+
+NEW_FILE: 
+|-----DIR : 17_BlueHorizontalLines - Date : Tuesday - April 22, 2025 - 1:16:4:190 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:16:4:192 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:16:4:195 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:16:4:195 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:16:4:197 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:16:4:198 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:16:4:199 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:16:4:201 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:16:4:202 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:16:4:203 AM
+
+NEW_FILE: 
+|-----DIR : 18_BlueVerticalLines - Date : Tuesday - April 22, 2025 - 1:27:1:958 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:27:1:960 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:27:1:963 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:27:1:967 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:27:1:970 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:27:1:970 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:27:1:971 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:27:1:975 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:27:1:976 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:27:1:977 AM
+
+NEW_FILE: 
+|-----DIR : 19_GraphPaperWithShapes - Date : Tuesday - April 22, 2025 - 1:28:20:624 AM
+
+NEW_FILE: 
+	|-----DIR : 01_Graph_Paper - Date : Tuesday - April 22, 2025 - 1:29:26:835 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:28:20:626 AM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:28:20:628 AM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:28:20:628 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:28:20:631 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:28:20:632 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:28:20:632 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:28:20:634 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:28:20:635 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:28:20:635 AM
+
+NEW_FILE: 
+	|-----DIR : 02_HollowTriangle - Date : Tuesday - April 22, 2025 - 1:30:9:895 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:30:9:897 AM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:30:9:900 AM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:30:9:901 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:30:9:902 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:30:9:903 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:30:9:904 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:30:9:906 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:30:9:907 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:30:9:908 AM
+
+NEW_FILE: 
+	|-----DIR : 03_HollowSquare - Date : Tuesday - April 22, 2025 - 1:36:35:879 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:36:35:880 AM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:36:35:882 AM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:36:35:883 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:36:35:885 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:36:35:885 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:36:35:886 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:36:35:887 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:36:35:888 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:36:35:889 AM
+
+NEW_FILE: 
+	|-----DIR : 04_HollowCircle - Date : Tuesday - April 22, 2025 - 1:38:49:428 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:38:49:430 AM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:38:49:432 AM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:38:49:433 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:38:49:436 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:38:49:436 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:38:49:437 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:38:49:439 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:38:49:441 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:38:49:441 AM
+
+NEW_FILE: 
+	|-----DIR : 05_All_Shapes - Date : Tuesday - April 22, 2025 - 1:45:47:774 AM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 1:45:47:775 AM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 1:45:47:777 AM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 1:45:47:778 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 1:45:47:780 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 1:45:47:781 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 1:45:47:782 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 1:45:47:784 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 1:45:47:785 AM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 1:45:47:785 AM
+
+NEW_FILE: 
+|-----DIR : 20_Kundali - Date : Tuesday - April 22, 2025 - 2:0:14:112 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 2:0:14:114 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 2:0:14:115 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 2:0:14:116 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 2:0:14:118 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 2:0:14:118 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 2:0:14:119 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 2:0:14:121 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 2:0:14:122 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 2:0:14:122 AM
+
+NEW_FILE: 
+|-----DIR : 21_ConcentricTriangle - Date : Tuesday - April 22, 2025 - 2:8:25:439 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 2:8:25:441 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 2:8:25:444 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 2:8:25:444 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 2:8:25:446 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 2:8:25:446 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 2:8:25:448 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 2:8:25:448 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 2:8:25:449 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 2:8:25:450 AM
+
+NEW_FILE: 
+|-----DIR : 22_ConcentricSquare - Date : Tuesday - April 22, 2025 - 2:8:25:452 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 2:8:25:454 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 2:8:25:456 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 2:8:25:458 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 2:8:25:459 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 2:8:25:460 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 2:8:25:461 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 2:8:25:462 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 2:8:25:463 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 2:8:25:463 AM
+
+NEW_FILE: 
+|-----DIR : 23_ConcentricCircle - Date : Tuesday - April 22, 2025 - 2:8:25:465 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 2:46:26:126 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 2:46:26:124 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 2:46:26:118 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 2:46:26:112 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 2:46:26:129 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 2:46:26:116 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 2:46:26:128 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 2:46:26:120 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 2:46:26:114 AM
+
+NEW_FILE: 
+|-----DIR : 24_Static_DeathlyHallows - Date : Tuesday - April 22, 2025 - 10:26:32:325 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 10:26:44:219 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 10:26:44:217 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 10:26:44:212 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 10:26:44:207 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 10:26:44:205 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 10:26:44:210 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 10:26:44:203 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 10:26:44:214 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 10:26:44:208 AM
+
+NEW_FILE: 
+|-----DIR : 25_Dynamic_DeathlyHallows - Date : Tuesday - April 22, 2025 - 10:47:1:994 AM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Tuesday - April 22, 2025 - 10:47:1:996 AM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Tuesday - April 22, 2025 - 10:47:1:999 AM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Tuesday - April 22, 2025 - 10:47:2:0 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Tuesday - April 22, 2025 - 10:47:2:3 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Tuesday - April 22, 2025 - 10:50:44:939 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Tuesday - April 22, 2025 - 10:47:2:5 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Tuesday - April 22, 2025 - 10:47:2:6 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Tuesday - April 22, 2025 - 10:47:2:6 AM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Tuesday - April 22, 2025 - 10:47:2:7 AM
+
+NEW_FILE: 
+|-----DIR : 26_Static_Bharat - Date : Thursday - April 24, 2025 - 1:47:57:365 PM
+
+NEW_FILE: 
+	|-----DIR : alphabets - Date : Thursday - April 24, 2025 - 1:47:57:387 PM
+
+NEW_FILE: 
+		|-----FILE : alphabets.c - Date : Thursday - April 24, 2025 - 1:47:57:390 PM
+
+NEW_FILE: 
+		|-----FILE : alphabets.h - Date : Thursday - April 24, 2025 - 1:47:57:390 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_A.c - Date : Thursday - April 24, 2025 - 1:47:57:391 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_A.h - Date : Thursday - April 24, 2025 - 1:47:57:392 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_B.c - Date : Thursday - April 24, 2025 - 1:47:57:393 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_B.h - Date : Thursday - April 24, 2025 - 1:47:57:393 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_H.c - Date : Thursday - April 24, 2025 - 1:47:57:394 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_H.h - Date : Thursday - April 24, 2025 - 1:47:57:394 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_R.c - Date : Thursday - April 24, 2025 - 1:47:57:396 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_R.h - Date : Thursday - April 24, 2025 - 1:47:57:396 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_T.c - Date : Thursday - April 24, 2025 - 1:47:57:397 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_T.h - Date : Thursday - April 24, 2025 - 1:47:57:398 PM
+
+NEW_FILE: 
+	|-----FILE : alphabets.obj - Date : Thursday - April 24, 2025 - 1:47:57:367 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_A.obj - Date : Thursday - April 24, 2025 - 1:47:57:368 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_B.obj - Date : Thursday - April 24, 2025 - 1:47:57:369 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_H.obj - Date : Thursday - April 24, 2025 - 1:47:57:371 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_R.obj - Date : Thursday - April 24, 2025 - 1:47:57:372 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_T.obj - Date : Thursday - April 24, 2025 - 1:47:57:372 PM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Thursday - April 24, 2025 - 1:47:57:373 PM
+
+NEW_FILE: 
+	|-----DIR : common - Date : Thursday - April 24, 2025 - 1:47:57:400 PM
+
+NEW_FILE: 
+		|-----FILE : common.h - Date : Thursday - April 24, 2025 - 1:47:57:401 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.c - Date : Thursday - April 24, 2025 - 1:47:57:375 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.h - Date : Thursday - April 24, 2025 - 1:47:57:376 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.obj - Date : Thursday - April 24, 2025 - 1:47:57:377 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Thursday - April 24, 2025 - 1:47:57:378 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Thursday - April 24, 2025 - 1:47:57:378 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Thursday - April 24, 2025 - 1:47:57:380 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Thursday - April 24, 2025 - 1:47:57:381 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Thursday - April 24, 2025 - 1:47:57:382 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Thursday - April 24, 2025 - 1:47:57:382 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Thursday - April 24, 2025 - 1:47:57:383 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Thursday - April 24, 2025 - 1:47:57:384 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.c - Date : Thursday - April 24, 2025 - 1:47:57:385 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.h - Date : Thursday - April 24, 2025 - 1:47:57:386 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.obj - Date : Thursday - April 24, 2025 - 1:47:57:387 PM
+
+NEW_FILE: 
+|-----DIR : 27_Dynamic_Bharat - Date : Thursday - April 24, 2025 - 1:54:31:70 PM
+
+NEW_FILE: 
+	|-----DIR : .vscode - Date : Saturday - April 26, 2025 - 1:46:45:86 AM
+
+NEW_FILE: 
+		|-----FILE : settings.json - Date : Saturday - April 26, 2025 - 1:46:45:88 AM
+
+NEW_FILE: 
+	|-----DIR : alphabets - Date : Thursday - April 24, 2025 - 1:54:31:91 PM
+
+NEW_FILE: 
+		|-----FILE : alphabets.c - Date : Thursday - April 24, 2025 - 1:54:31:92 PM
+
+NEW_FILE: 
+		|-----FILE : alphabets.h - Date : Thursday - April 24, 2025 - 1:54:31:93 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_A.c - Date : Thursday - April 24, 2025 - 1:54:31:94 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_A.h - Date : Thursday - April 24, 2025 - 1:54:31:94 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_B.c - Date : Thursday - April 24, 2025 - 1:54:31:95 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_B.h - Date : Thursday - April 24, 2025 - 1:54:31:96 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_H.c - Date : Thursday - April 24, 2025 - 1:54:31:97 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_H.h - Date : Thursday - April 24, 2025 - 1:54:31:98 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_R.c - Date : Thursday - April 24, 2025 - 1:54:31:98 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_R.h - Date : Thursday - April 24, 2025 - 1:54:31:99 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_T.c - Date : Thursday - April 24, 2025 - 1:54:31:100 PM
+
+NEW_FILE: 
+		|-----FILE : alphabet_T.h - Date : Thursday - April 24, 2025 - 1:54:31:100 PM
+
+NEW_FILE: 
+	|-----FILE : alphabets.obj - Date : Thursday - April 24, 2025 - 1:54:31:72 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_A.obj - Date : Thursday - April 24, 2025 - 1:54:31:74 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_B.obj - Date : Thursday - April 24, 2025 - 1:54:31:74 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_H.obj - Date : Thursday - April 24, 2025 - 1:54:31:75 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_R.obj - Date : Thursday - April 24, 2025 - 1:54:31:76 PM
+
+NEW_FILE: 
+	|-----FILE : alphabet_T.obj - Date : Thursday - April 24, 2025 - 1:54:31:77 PM
+
+NEW_FILE: 
+	|-----FILE : ashoka_chakra.c - Date : Sunday - April 27, 2025 - 4:59:42:889 PM
+
+NEW_FILE: 
+	|-----FILE : ashoka_chakra.h - Date : Sunday - April 27, 2025 - 4:58:2:909 PM
+
+NEW_FILE: 
+	|-----FILE : ashoka_chakra.obj - Date : Sunday - April 27, 2025 - 5:6:29:42 PM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Thursday - April 24, 2025 - 1:54:31:78 PM
+
+NEW_FILE: 
+	|-----DIR : common - Date : Thursday - April 24, 2025 - 1:54:31:102 PM
+
+NEW_FILE: 
+		|-----FILE : common.h - Date : Thursday - April 24, 2025 - 1:54:31:103 PM
+
+NEW_FILE: 
+	|-----FILE : dynamic_BHARAT_animation.c - Date : Saturday - April 26, 2025 - 1:34:15:962 AM
+
+NEW_FILE: 
+	|-----FILE : dynamic_BHARAT_animation.h - Date : Saturday - April 26, 2025 - 1:33:39:183 AM
+
+NEW_FILE: 
+	|-----FILE : dynamic_BHARAT_animation.obj - Date : Saturday - April 26, 2025 - 1:47:30:61 AM
+
+NEW_FILE: 
+	|-----FILE : fighter_jet.c - Date : Thursday - April 24, 2025 - 3:52:46:519 PM
+
+NEW_FILE: 
+	|-----FILE : fighter_jet.h - Date : Thursday - April 24, 2025 - 3:51:7:369 PM
+
+NEW_FILE: 
+	|-----FILE : fighter_jet.obj - Date : Thursday - April 24, 2025 - 3:55:35:667 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.c - Date : Thursday - April 24, 2025 - 1:54:31:79 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.h - Date : Thursday - April 24, 2025 - 1:54:31:80 PM
+
+NEW_FILE: 
+	|-----FILE : lerpbox.obj - Date : Thursday - April 24, 2025 - 1:54:31:81 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Thursday - April 24, 2025 - 1:54:31:81 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Thursday - April 24, 2025 - 1:54:31:82 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Thursday - April 24, 2025 - 1:54:31:84 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 5:24:37:389 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Thursday - April 24, 2025 - 1:54:31:85 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Thursday - April 24, 2025 - 1:54:31:86 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Thursday - April 24, 2025 - 1:54:31:87 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Thursday - April 24, 2025 - 1:54:31:88 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.c - Date : Thursday - April 24, 2025 - 1:54:31:88 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.h - Date : Thursday - April 24, 2025 - 1:54:31:89 PM
+
+NEW_FILE: 
+	|-----FILE : pathtracer.obj - Date : Thursday - April 24, 2025 - 1:54:31:90 PM
+
+NEW_FILE: 
+|-----DIR : 28_PushPop_Matrix - Date : Saturday - April 26, 2025 - 3:14:11:67 PM
+
+NEW_FILE: 
+	|-----DIR : 01_Solar_System - Date : Saturday - April 26, 2025 - 3:14:36:93 PM
+
+NEW_FILE: 
+		|-----DIR : 01_Solar_System - Date : Saturday - April 26, 2025 - 3:15:37:744 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 3:15:56:80 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 3:15:56:78 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 3:15:56:71 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 3:15:56:64 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 3:15:56:62 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 3:15:56:68 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 3:15:56:59 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 3:15:56:72 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 3:15:56:66 PM
+
+NEW_FILE: 
+		|-----DIR : 02_Solar_System_With_Moon - Date : Saturday - April 26, 2025 - 3:15:41:768 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 3:33:30:529 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 3:33:30:527 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 3:33:30:521 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 3:33:30:516 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 3:33:30:514 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 3:33:30:519 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 3:33:30:512 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 3:33:30:524 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 3:33:30:518 PM
+
+NEW_FILE: 
+	|-----DIR : 02_Robotic_Arm - Date : Saturday - April 26, 2025 - 3:14:40:27 PM
+
+NEW_FILE: 
+		|-----DIR : 01_Robotic_Arm - Date : Saturday - April 26, 2025 - 3:38:50:494 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 3:38:50:496 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 3:38:50:498 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 3:38:50:500 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 3:38:50:502 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 3:38:50:503 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 3:38:50:503 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 3:38:50:504 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 3:38:50:505 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 3:38:50:506 PM
+
+NEW_FILE: 
+		|-----DIR : 02_Robotic_Arm_With_Wrist - Date : Saturday - April 26, 2025 - 3:46:28:785 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 3:46:28:788 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 3:46:28:790 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 3:46:28:790 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 3:46:28:792 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 3:46:28:793 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 3:46:28:794 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 3:46:28:795 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 3:46:28:795 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 3:46:28:797 PM
+
+NEW_FILE: 
+|-----DIR : 29_Texture - Date : Saturday - April 26, 2025 - 3:14:20:428 PM
+
+NEW_FILE: 
+	|-----DIR : 01_One3DShape - Date : Saturday - April 26, 2025 - 4:12:1:799 PM
+
+NEW_FILE: 
+		|-----DIR : 01_Pyramid - Date : Sunday - April 27, 2025 - 3:58:5:277 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 3:58:5:279 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 3:58:5:280 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 3:58:5:282 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 3:58:5:284 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:11:52:547 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 3:58:5:286 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 3:58:5:287 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 3:58:5:288 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 3:58:5:289 PM
+
+NEW_FILE: 
+			|-----FILE : Stone.bmp - Date : Sunday - April 27, 2025 - 3:59:22:270 PM
+
+NEW_FILE: 
+		|-----DIR : 02_Cube - Date : Sunday - April 27, 2025 - 3:58:5:293 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 3:58:5:294 PM
+
+NEW_FILE: 
+			|-----FILE : kundali.bmp - Date : Sunday - April 27, 2025 - 4:14:52:861 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 3:58:5:297 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 3:58:5:297 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 3:58:5:299 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:16:1:828 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 3:58:5:302 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 3:58:5:303 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 3:58:5:304 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:16:1:795 PM
+
+NEW_FILE: 
+	|-----DIR : 02_Two3DShape - Date : Saturday - April 26, 2025 - 4:12:9:815 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 3:58:5:309 PM
+
+NEW_FILE: 
+		|-----FILE : kundali.bmp - Date : Sunday - April 27, 2025 - 4:49:33:341 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 3:58:5:312 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 3:58:5:313 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 3:58:5:314 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:50:27:994 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 3:58:5:317 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 3:58:5:318 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 3:58:5:319 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:49:35:55 PM
+
+NEW_FILE: 
+		|-----FILE : Stone.bmp - Date : Sunday - April 27, 2025 - 4:44:55:252 PM
+
+NEW_FILE: 
+	|-----DIR : 03_SmileyTexture - Date : Saturday - April 26, 2025 - 4:12:16:622 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 4:18:42:512 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 4:18:42:511 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 4:18:42:506 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 4:18:42:499 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:18:42:496 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 4:18:42:504 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 4:18:42:494 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 4:18:42:509 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:18:42:501 PM
+
+NEW_FILE: 
+		|-----FILE : Smiley.bmp - Date : Sunday - April 27, 2025 - 4:18:24:622 PM
+
+NEW_FILE: 
+	|-----DIR : 04_TweakedSmiley - Date : Saturday - April 26, 2025 - 4:12:23:496 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 4:22:40:321 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 4:22:40:323 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 4:22:40:325 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 4:22:40:328 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:22:40:329 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 4:22:40:332 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 4:22:40:334 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 4:22:40:336 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:22:40:338 PM
+
+NEW_FILE: 
+		|-----FILE : Smiley.bmp - Date : Sunday - April 27, 2025 - 4:22:40:340 PM
+
+NEW_FILE: 
+	|-----DIR : 05_CheckerBoard - Date : Saturday - April 26, 2025 - 4:12:39:152 PM
+
+NEW_FILE: 
+		|-----DIR : 01_Using_Coordinates - Date : Saturday - April 26, 2025 - 4:21:50:517 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 4:32:58:786 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 4:32:58:785 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 4:32:58:781 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 4:32:58:774 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:37:3:938 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 4:32:58:779 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 4:32:58:768 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 4:32:58:783 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:37:3:906 PM
+
+NEW_FILE: 
+		|-----DIR : 02_Using_Transformation - Date : Saturday - April 26, 2025 - 4:21:52:222 PM
+
+NEW_FILE: 
+			|-----FILE : build.bat - Date : Sunday - April 27, 2025 - 4:38:14:886 PM
+
+NEW_FILE: 
+			|-----FILE : LogFile.txt - Date : Sunday - April 27, 2025 - 4:38:14:884 PM
+
+NEW_FILE: 
+			|-----FILE : mylogo.ico - Date : Sunday - April 27, 2025 - 4:38:14:879 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.c - Date : Sunday - April 27, 2025 - 4:38:14:874 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 4:38:14:889 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.h - Date : Sunday - April 27, 2025 - 4:38:14:878 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.obj - Date : Sunday - April 27, 2025 - 4:38:14:887 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.rc - Date : Sunday - April 27, 2025 - 4:38:14:883 PM
+
+NEW_FILE: 
+			|-----FILE : OGL.res - Date : Sunday - April 27, 2025 - 4:38:14:876 PM
+
+NEW_FILE: 
+|-----DIR : 30_White_Sphere - Date : Saturday - April 26, 2025 - 3:14:26:24 PM
+
+NEW_FILE: 
+	|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 4:13:44:830 PM
+
+NEW_FILE: 
+	|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 4:13:44:829 PM
+
+NEW_FILE: 
+	|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 4:13:44:822 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 4:13:44:816 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 4:13:44:813 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 4:13:44:820 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 4:13:44:812 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 4:13:44:825 PM
+
+NEW_FILE: 
+	|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 4:13:44:818 PM
+
+NEW_FILE: 
+|-----DIR : 31_Lights - Date : Saturday - April 26, 2025 - 4:15:24:294 PM
+
+NEW_FILE: 
+	|-----DIR : 01_Diffuse_Light - Date : Saturday - April 26, 2025 - 10:41:43:179 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 4:15:41:512 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 4:15:41:510 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 4:15:41:504 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 4:15:41:497 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Saturday - April 26, 2025 - 4:15:41:495 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 4:15:41:502 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 4:15:41:493 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 4:15:41:506 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 4:15:41:499 PM
+
+NEW_FILE: 
+	|-----DIR : 02_Goraud_Shading - Date : Saturday - April 26, 2025 - 10:42:17:528 PM
+
+NEW_FILE: 
+		|-----FILE : build.bat - Date : Saturday - April 26, 2025 - 10:44:21:203 PM
+
+NEW_FILE: 
+		|-----FILE : LogFile.txt - Date : Saturday - April 26, 2025 - 10:44:21:201 PM
+
+NEW_FILE: 
+		|-----FILE : mylogo.ico - Date : Saturday - April 26, 2025 - 10:44:21:195 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.c - Date : Saturday - April 26, 2025 - 10:44:21:188 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.exe - Date : Sunday - April 27, 2025 - 6:34:47:16 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.h - Date : Saturday - April 26, 2025 - 10:44:21:192 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.obj - Date : Saturday - April 26, 2025 - 10:44:21:184 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.rc - Date : Saturday - April 26, 2025 - 10:44:21:198 PM
+
+NEW_FILE: 
+		|-----FILE : OGL.res - Date : Saturday - April 26, 2025 - 10:44:21:190 PM
+
+NEW_FILE: 
+	|-----DIR : 03_Two_Lights_OnSpinning_Pyramid - Date : Saturday - April 26, 2025 - 10:43:16:688 PM
+
+NEW_FILE: 
+	|-----DIR : 04_Three_Moving_Lights_On_Steady_Sphere - Date : Saturday - April 26, 2025 - 10:43:28:773 PM
+
+NEW_FILE: 
+	|-----DIR : 05_Spot_light - Date : Saturday - April 26, 2025 - 10:44:29:364 PM
+
+NEW_FILE: 
+	|-----DIR : 06_24_Spheres_Materials - Date : Saturday - April 26, 2025 - 10:43:47:367 PM
+
+NEW_FILE: 
+	|-----DIR : 07_24_Spheres_Materials_Using_Trignometry - Date : Saturday - April 26, 2025 - 10:47:17:361 PM
+
+NEW_FILE: 
+	|-----DIR : 08_Teapot_Model_With_Texture_and_Light - Date : Saturday - April 26, 2025 - 10:47:33:948 PM
+
+NEW_FILE: 
+|-----FILE : CreationTime.txt - Date : Sunday - April 27, 2025 - 8:37:0:501 PM
+
+NEW_FILE: 
+|-----FILE : OUTPUT.txt - Date : Sunday - April 27, 2025 - 8:37:0:492 PM

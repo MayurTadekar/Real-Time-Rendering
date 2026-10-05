@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+
+{
+	DIR : Method_01
+	Date : Friday - January 31, 2025 - 8:59:45:315 PM
+}
+
+{
+	DIR : Method_02
+	Date : Friday - January 31, 2025 - 8:59:49:310 PM
+}
+
+{
+	DIR : Method_03
+	Date : Friday - January 31, 2025 - 8:59:49:455 PM
+}
+=======
+
+{
+	DIR : Method_01
+	Date : Friday - January 31, 2025 - 8:59:45:315 PM
+}
+
+{
+	DIR : Method_02
+	Date : Friday - January 31, 2025 - 8:59:49:310 PM
+}
+
+{
+	DIR : Method_03
+	Date : Friday - January 31, 2025 - 8:59:49:455 PM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Friday - January 31, 2025 - 9:12:37:242 PM
+}
+>>>>>>> parent of 29efdfc (10:30 PM - 07-June-2025 - XWindows Codes & Window-05-Assignments)

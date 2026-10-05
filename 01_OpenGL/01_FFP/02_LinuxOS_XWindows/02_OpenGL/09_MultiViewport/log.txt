@@ -1,0 +1,3 @@
+window started successfully
+toggleFullscreen() called
+program terminated successfully

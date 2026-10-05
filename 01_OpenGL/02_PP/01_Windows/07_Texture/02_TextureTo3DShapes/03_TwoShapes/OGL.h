@@ -1,0 +1,13 @@
+
+
+#define	MY_LOGO	1996
+
+
+#define	IDB_STONE	2001
+#define	IDB_KUNDALI	2002
+
+enum
+{
+	MST_ATTRIBUTES_POSITION = 1,
+	MST_ATTRIBUTES_TEXCOORDS,
+};

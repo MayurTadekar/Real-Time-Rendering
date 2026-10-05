@@ -1,0 +1,25 @@
+
+{
+	FILE : build.sh
+	Date : Saturday - June 7, 2025 - 10:18:7:271 PM
+}
+
+{
+	FILE : output.png
+	Date : Saturday - June 7, 2025 - 10:26:38:163 PM
+}
+
+{
+	FILE : xwindow.c
+	Date : Saturday - June 7, 2025 - 0:52:36:73 AM
+}
+
+{
+	FILE : xwindow.o
+	Date : Saturday - June 7, 2025 - 10:26:17:452 PM
+}
+
+{
+	FILE : xwindow.out
+	Date : Saturday - June 7, 2025 - 10:26:17:456 PM
+}

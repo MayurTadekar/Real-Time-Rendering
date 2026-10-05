@@ -1,0 +1,35 @@
+
+{
+	DIR : 01_OpenGL
+	Date : Thursday - November 21, 2024 - 2:20:41:534 PM
+}
+
+{
+	DIR : 02_DirectX
+	Date : Thursday - November 21, 2024 - 2:20:50:738 PM
+}
+
+{
+	DIR : 03_C_Assignments
+	Date : Thursday - November 21, 2024 - 2:21:1:422 PM
+}
+
+{
+	DIR : 04_Sketching_Assignments
+	Date : Thursday - November 21, 2024 - 2:21:27:124 PM
+}
+
+{
+	DIR : 05_HPP_Seminar
+	Date : Sunday - February 9, 2025 - 8:32:57:540 PM
+}
+
+{
+	DIR : 06_Group_Activity
+	Date : Thursday - November 21, 2024 - 2:21:36:710 PM
+}
+
+{
+	DIR : 07_My_Projects
+	Date : Tuesday - January 14, 2025 - 11:27:37:774 AM
+}

@@ -1,0 +1,25 @@
+
+{
+	DIR : 01_One3DShape
+	Date : Saturday - April 26, 2025 - 4:12:1:799 PM
+}
+
+{
+	DIR : 02_Two3DShape
+	Date : Saturday - April 26, 2025 - 4:12:9:815 PM
+}
+
+{
+	DIR : 03_SmileyTexture
+	Date : Saturday - April 26, 2025 - 4:12:16:622 PM
+}
+
+{
+	DIR : 04_TweakedSmiley
+	Date : Saturday - April 26, 2025 - 4:12:23:496 PM
+}
+
+{
+	DIR : 05_CheckerBoard
+	Date : Saturday - April 26, 2025 - 4:12:39:152 PM
+}

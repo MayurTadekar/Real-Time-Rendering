@@ -1,0 +1,3 @@
+Installing OpenAL: sudo apt-get install libopenal-dev
+
+Installing mpg123: sudo apt-get install mpg123

@@ -1,0 +1,435 @@
+
+
+// HEADERS
+
+#include	<iostream>
+#include	<stdio.h>
+#include	<stdlib.h>
+#include	<memory.h>
+
+#include	<X11/Xlib.h>
+#include	<X11/Xutil.h>
+#include	<X11/XKBlib.h>
+#include	<X11/keysym.h>
+
+#include	<GL/gl.h>	// OpenGL APIs
+#include	<GL/glu.h>
+#include	<GL/glx.h>
+
+#include	<SOIL/SOIL.h>
+
+// MACROS
+#define		WIN_WIDTH	800
+#define		WIN_HEIGHT	600
+
+#define		EXIT_ERROR(error)	{						\
+						fprintf(stderr,"ERROR: %s\n", error);	\
+						Uninitialize();				\
+						exit(1);				\
+					}
+GLfloat	*tex_to_use = NULL;
+
+#define		CHECK_NULL(call)		if( tex_to_use != NULL )		\
+							call;
+
+
+// GLOBAL VARIABLES
+bool		bFullscreen = false;
+Display*	gpDisplay = NULL;
+Window		gWindow;
+Colormap	gColormap;
+XVisualInfo*	gpXVisualInfo = NULL;
+GLXContext	gGLXContext;
+GLuint		texture_smiley;
+
+GLfloat		texture_1[] = {	1.0f, 0.0f,
+				1.0f, 1.0f,
+				0.0f, 1.0f,
+				0.0f, 0.0f};
+
+GLfloat		texture_2[] = {	1.0f, 0.5f,
+				1.0f, 1.0f,
+				0.5f, 1.0f,
+				0.5f, 0.5f};
+
+GLfloat		texture_3[] = { 2.0f, 0.0f,
+				2.0f, 2.0f,
+				0.0f, 2.0f,
+				0.0f, 0.0f};
+
+GLfloat		texture_4[] = { 0.5f, 0.5f,
+				0.5f, 0.5f,
+				0.5f, 0.5f,
+				0.5f, 0.5f};
+
+// FUNCTIONS
+
+// MAIN
+int main(int argc, char **argv, char **envp) {
+
+	// FUNCTION
+	void CreateWindow(void);
+	void Uninitialize(void);
+	void ToggleFullscreen(void);
+	// CHANGE
+	void Initialize(void);
+	void Resize(int, int);
+	void Draw(void);
+
+	// VARIABLES
+	int	win_width = 0;
+	int	win_height = 0;
+	KeySym	keysym;
+	XEvent	event;
+	// CHANGE
+	bool	bDone = false;
+
+	// CODE
+
+	CreateWindow();
+
+	// CHANGE
+	Initialize();
+
+
+	while(bDone == false) {
+
+		while( XPending(gpDisplay) ) {
+
+			XNextEvent(gpDisplay, &event);
+
+			switch(event.type) {
+				case MapNotify:
+					break;
+
+				case KeyPress:
+					keysym = XkbKeycodeToKeysym(gpDisplay, event.xkey.keycode, 0, 0);
+
+					switch(keysym) {
+						case XK_Escape:
+							bDone = true;
+							break;
+
+						case XK_F:
+						case XK_f:
+							if( bFullscreen ){
+								ToggleFullscreen();
+								bFullscreen = false;
+							} else {
+								ToggleFullscreen();
+								bFullscreen = true;
+							}
+							break;
+
+						case XK_1:
+							tex_to_use = texture_1;
+							break;
+
+						case XK_2:
+							tex_to_use = texture_2;
+							break;
+
+						case XK_3:
+							tex_to_use = texture_3;
+							break;
+
+						case XK_4:
+							tex_to_use = texture_4;
+							break;
+					}
+					break;
+
+				case ButtonPress:
+					switch(event.xbutton.button) {
+						case 1:
+							break;
+
+						case 2:
+							break;
+
+						case 3:
+							break;
+
+						default:
+							break;
+					}
+
+				case ConfigureNotify:
+					win_width = event.xconfigure.width;
+					win_height = event.xconfigure.height;
+					Resize( win_width, win_height);
+					break;
+
+				case Expose:
+					break;
+
+				case 33:
+					bDone = true;
+					break;
+			}
+		}
+		Draw();
+	}
+
+	Uninitialize();
+
+	return(0);
+}
+
+
+// CreateWindow
+void CreateWindow(void) {
+
+	// FUNCTION
+	void Uninitialize(void);
+
+	// VARIABLES
+	XSetWindowAttributes 	winAttribs;
+	int		defaultScreen;
+	int		styleMask;
+	Status		status;
+
+	static int frameBufferAttributes[] = { 	GLX_DOUBLEBUFFER, True,
+						GLX_RGBA,
+						GLX_RED_SIZE, 	8,
+						GLX_GREEN_SIZE, 8,
+						GLX_BLUE_SIZE, 	8,
+						GLX_ALPHA_SIZE, 8,
+						GLX_DEPTH_SIZE, 24,
+						// V4L recommends bitsize of depth to be kept around 24
+						None
+						// Here we can use '0' as well
+					 };
+
+	// CODE
+
+	gpDisplay = XOpenDisplay(NULL);
+	if( NULL == gpDisplay)
+		EXIT_ERROR("Display cannot be opened");
+
+	defaultScreen = XDefaultScreen(gpDisplay);
+/*
+	gpXVisualInfo = (XVisualInfo*) malloc(sizeof(XVisualInfo));
+	if( NULL == gpXVisualInfo)
+		EXIT_ERROR("Memory cannot be allocated to XVisualInfo");*/
+
+	gpXVisualInfo = glXChooseVisual(gpDisplay, defaultScreen, frameBufferAttributes);
+	if( NULL == gpXVisualInfo)
+		EXIT_ERROR("Memory cannot be allocated to XVisualInfo");
+
+	/*status = XMatchVisualInfo(gpDisplay, defaultScreen, defaultDepth, TrueColor, gpXVisualInfo);
+	if( 0 == status)
+		EXIT_ERROR("Suitable Match cannot be found of XVisualInfo");
+*/
+	winAttribs.border_pixel = 0;
+	winAttribs.background_pixmap = 0;
+	winAttribs.background_pixel = BlackPixel(gpDisplay,
+						 defaultScreen);
+
+	winAttribs.colormap = XCreateColormap(	gpDisplay,
+						RootWindow(gpDisplay, gpXVisualInfo->screen),
+						gpXVisualInfo->visual,
+						AllocNone);
+
+	winAttribs.event_mask = ExposureMask | StructureNotifyMask | VisibilityChangeMask | PointerMotionMask | KeyPressMask | ButtonPressMask;
+	gColormap = winAttribs.colormap;
+
+	styleMask = CWBackPixel | CWBorderPixel | CWEventMask | CWColormap;
+
+	gWindow = XCreateWindow( gpDisplay,
+				 RootWindow(gpDisplay, gpXVisualInfo->screen),
+				 0,
+				 0,
+				 WIN_WIDTH,
+				 WIN_HEIGHT,
+				 0,
+				 gpXVisualInfo->depth,
+				 InputOutput,
+				 gpXVisualInfo->visual,
+				 styleMask,
+				 &winAttribs);
+
+	if( 0 == gWindow)
+		EXIT_ERROR("Window Cannot be created");
+
+	XStoreName(gpDisplay, gWindow, "Window");
+
+	Atom windowDeleteManager = XInternAtom(gpDisplay, "WM_DELETE_WINDOW", True);
+	XSetWMProtocols(gpDisplay, gWindow, &windowDeleteManager, 1);
+
+	XMapWindow(gpDisplay, gWindow);
+}
+
+// ToggleFullscreen
+
+
+void ToggleFullscreen(void) {
+
+	// VARIABLES
+	Atom	wm_state = XInternAtom(gpDisplay, "_NET_WM_STATE", False);
+	Atom	fullscreen = XInternAtom(gpDisplay, "_NET_WM_STATE_FULLSCREEN", False);
+	XEvent	event = {0};
+
+	// CODE
+	event.type = ClientMessage;
+	event.xclient.window = gWindow;
+	event.xclient.message_type = wm_state;
+	event.xclient.format = 32;
+	event.xclient.data.l[0] = bFullscreen ? 0 : 1;
+	event.xclient.data.l[1] = fullscreen;
+
+	XSendEvent( gpDisplay,
+		    RootWindow(gpDisplay, gpXVisualInfo->screen),
+		    False,
+		    StructureNotifyMask,
+		    &event);
+}
+
+void Initialize(void) {
+
+	// FUNCTION DECLARATION
+	void Resize(int, int);
+	GLuint	LoadBitmapAsTexture(const char *);
+
+	// CODE
+	gGLXContext = glXCreateContext( gpDisplay, gpXVisualInfo, NULL, GL_TRUE);
+
+	glXMakeCurrent(gpDisplay, gWindow, gGLXContext);
+
+	glShadeModel(GL_SMOOTH);
+
+	glDepthFunc(GL_LEQUAL);
+
+	glEnable(GL_DEPTH);
+
+	glClearDepth(1.0f);
+
+	glHint(GL_PERSPECTIVE_CORRECTION_HINT, GL_NICEST);
+
+	glEnable(GL_TEXTURE_2D);
+
+	texture_smiley = LoadBitmapAsTexture("./Smiley.bmp");
+
+	tex_to_use = texture_1;
+
+	glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+
+	Resize(WIN_WIDTH, WIN_HEIGHT);
+}
+
+GLuint	LoadBitmapAsTexture(const char *path) {
+
+	// FUNCTION
+	void Uninitialize(void);
+
+	// VARIABLE
+	int width = 0;
+	int height = 0;
+	unsigned char *image_data = NULL;
+	GLuint	textureId;
+
+	// CODE
+	if( NULL == path)
+		EXIT_ERROR("Invalid Path");
+
+	image_data = SOIL_load_image(path, &width, &height, NULL, SOIL_LOAD_RGB);
+
+	glPixelStorei(GL_UNPACK_ALIGNMENT, 4);
+	glGenTextures(1, &textureId);
+	glBindTexture(GL_TEXTURE_2D, textureId);
+	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR_MIPMAP_LINEAR);
+
+	gluBuild2DMipmaps(GL_TEXTURE_2D, 3, width, height, GL_RGB, GL_UNSIGNED_BYTE, image_data);
+
+	SOIL_free_image_data(image_data);
+
+	return(textureId);
+
+}
+
+
+void Resize(int width, int height) {
+
+	if( height < 1)
+		height = 1;
+
+
+	glViewport(0, 0, (GLsizei)width, (GLsizei) height);
+
+	glMatrixMode(GL_PROJECTION);
+	glLoadIdentity();
+
+	gluPerspective( 45.0f, (GLfloat)width/(GLfloat)height, 1.0f, 100.0f);
+
+	glMatrixMode(GL_MODELVIEW);
+	glLoadIdentity();
+}
+
+void Draw(void) {
+
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+	glBindTexture(GL_TEXTURE_2D, texture_smiley);
+
+	glLoadIdentity();
+
+	glTranslatef( 0.0f, 0.0f, -3.0f);
+
+	glBegin(GL_QUADS);
+	{
+		CHECK_NULL( glTexCoord2f( *(tex_to_use + 0 * 2 + 0), *(tex_to_use + 0 * 2 + 1) ) );
+		glVertex3f(-1.0f, 1.0f, 0.0f);
+
+		CHECK_NULL( glTexCoord2f( *(tex_to_use + 1 * 2 + 0), *(tex_to_use + 1 * 2 + 1) ) );
+		glVertex3f(-1.0f, -1.0f, 0.0f);
+
+		CHECK_NULL( glTexCoord2f( *(tex_to_use + 2 * 2 + 0), *(tex_to_use + 2 * 2 + 1) ) );
+		glVertex3f(1.0f, -1.0f, 0.0f);
+
+		CHECK_NULL( glTexCoord2f( *(tex_to_use + 3 * 2 + 0), *(tex_to_use + 3 * 2 + 1) ) );
+		glVertex3f(1.0f, 1.0f, 0.0f);
+	}
+	glEnd();
+
+	glXSwapBuffers(gpDisplay, gWindow);
+}
+
+// Uninitialize
+void Uninitialize(void) {
+
+	// VARIABLES
+	GLXContext currentContext;
+
+	currentContext = glXGetCurrentContext();
+
+	// CODE
+	if( currentContext == gGLXContext) {
+		glXMakeCurrent( gpDisplay, 0, 0);
+	}
+
+	if( gGLXContext ) {
+		glXDestroyContext(gpDisplay, gGLXContext);
+	}
+
+	if( texture_smiley) {
+		glDeleteTextures(1, &texture_smiley);
+		texture_smiley = 0;
+	}
+
+	if( gWindow )
+		XDestroyWindow(gpDisplay, gWindow);
+
+	if( gColormap)
+		XFreeColormap(gpDisplay, gColormap);
+
+	if( gpXVisualInfo ) {
+		free(gpXVisualInfo);
+		gpXVisualInfo = NULL;
+	}
+
+	if( gpDisplay ) {
+		XCloseDisplay(gpDisplay);
+		gpDisplay = NULL;
+	}
+}

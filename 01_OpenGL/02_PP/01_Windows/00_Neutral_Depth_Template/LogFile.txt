@@ -1,0 +1,6 @@
+Window Started Successfully
+ Entered Initialize().LOG >>>  Entered Resize().
+ Exit Initialize().LOG >>>  Entered Resize().
+ Entered Initialize().LOG >>>  Entered Resize().
+ Exit Initialize().Initialize() Completed Successfully
+Program Terminated Successfully...

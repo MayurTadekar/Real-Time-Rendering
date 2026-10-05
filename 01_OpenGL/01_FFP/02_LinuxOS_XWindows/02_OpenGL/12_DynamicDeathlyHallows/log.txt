@@ -1,0 +1,8 @@
+window started successfully
+Successfully loaded MP3 file: deathly_hallows.mp3
+toggleFullscreen() called
+Animation Started
+Animation Started
+Audio Playback Started
+toggleFullscreen() called
+program terminated successfully

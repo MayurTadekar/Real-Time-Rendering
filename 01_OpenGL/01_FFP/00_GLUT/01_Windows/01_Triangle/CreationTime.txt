@@ -1,0 +1,20 @@
+
+{
+	FILE : OGL.c
+	Date : Sunday - October 13, 2024 - 10:19:1:251 PM
+}
+
+{
+	FILE : OGL.exe
+	Date : Wednesday - November 20, 2024 - 5:19:25:500 PM
+}
+
+{
+	FILE : OGL.obj
+	Date : Sunday - October 13, 2024 - 11:33:11:189 PM
+}
+
+{
+	FILE : output.png
+	Date : Monday - October 14, 2024 - 3:18:53:115 AM
+}

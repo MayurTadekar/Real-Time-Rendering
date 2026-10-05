@@ -1,0 +1,25 @@
+
+{
+	DIR : 01_Graph_Paper
+	Date : Tuesday - April 22, 2025 - 1:29:26:835 AM
+}
+
+{
+	DIR : 02_HollowTriangle
+	Date : Tuesday - April 22, 2025 - 1:30:9:895 AM
+}
+
+{
+	DIR : 03_HollowSquare
+	Date : Tuesday - April 22, 2025 - 1:36:35:879 AM
+}
+
+{
+	DIR : 04_HollowCircle
+	Date : Tuesday - April 22, 2025 - 1:38:49:428 AM
+}
+
+{
+	DIR : 05_All_Shapes
+	Date : Tuesday - April 22, 2025 - 1:45:47:774 AM
+}

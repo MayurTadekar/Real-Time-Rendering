@@ -1,0 +1,12 @@
+LOG: Window Started Successfully
+
+LOG:  Entered Resize().
+LOG:  Entered Initialize().
+LOG:  Entered Resize().
+LOG:  Exit Initialize().
+LOG: Initialize() Completed Successfully
+
+LOG:  Entered Resize().
+LOG:  Entered Resize().
+LOG: Program Terminated Successfully...
+

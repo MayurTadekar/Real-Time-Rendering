@@ -1,0 +1,5 @@
+
+{
+	DIR : 01_Triangle
+	Date : Wednesday - March 26, 2025 - 11:36:58:565 PM
+}

@@ -1,0 +1,60 @@
+
+{
+	FILE : alphabets.c
+	Date : Thursday - April 24, 2025 - 1:47:57:390 PM
+}
+
+{
+	FILE : alphabets.h
+	Date : Thursday - April 24, 2025 - 1:47:57:390 PM
+}
+
+{
+	FILE : alphabet_A.c
+	Date : Thursday - April 24, 2025 - 1:47:57:391 PM
+}
+
+{
+	FILE : alphabet_A.h
+	Date : Thursday - April 24, 2025 - 1:47:57:392 PM
+}
+
+{
+	FILE : alphabet_B.c
+	Date : Thursday - April 24, 2025 - 1:47:57:393 PM
+}
+
+{
+	FILE : alphabet_B.h
+	Date : Thursday - April 24, 2025 - 1:47:57:393 PM
+}
+
+{
+	FILE : alphabet_H.c
+	Date : Thursday - April 24, 2025 - 1:47:57:394 PM
+}
+
+{
+	FILE : alphabet_H.h
+	Date : Thursday - April 24, 2025 - 1:47:57:394 PM
+}
+
+{
+	FILE : alphabet_R.c
+	Date : Thursday - April 24, 2025 - 1:47:57:396 PM
+}
+
+{
+	FILE : alphabet_R.h
+	Date : Thursday - April 24, 2025 - 1:47:57:396 PM
+}
+
+{
+	FILE : alphabet_T.c
+	Date : Thursday - April 24, 2025 - 1:47:57:397 PM
+}
+
+{
+	FILE : alphabet_T.h
+	Date : Thursday - April 24, 2025 - 1:47:57:398 PM
+}

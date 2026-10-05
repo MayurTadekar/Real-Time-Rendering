@@ -1,0 +1,45 @@
+
+{
+	FILE : build.bat
+	Date : Saturday - April 26, 2025 - 3:33:30:529 PM
+}
+
+{
+	FILE : LogFile.txt
+	Date : Saturday - April 26, 2025 - 3:33:30:527 PM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Saturday - April 26, 2025 - 3:33:30:521 PM
+}
+
+{
+	FILE : OGL.c
+	Date : Saturday - April 26, 2025 - 3:33:30:516 PM
+}
+
+{
+	FILE : OGL.exe
+	Date : Monday - June 23, 2025 - 11:2:18:172 AM
+}
+
+{
+	FILE : OGL.h
+	Date : Saturday - April 26, 2025 - 3:33:30:519 PM
+}
+
+{
+	FILE : OGL.obj
+	Date : Monday - June 23, 2025 - 11:2:18:173 AM
+}
+
+{
+	FILE : OGL.rc
+	Date : Saturday - April 26, 2025 - 3:33:30:524 PM
+}
+
+{
+	FILE : OGL.res
+	Date : Monday - June 23, 2025 - 11:2:18:173 AM
+}

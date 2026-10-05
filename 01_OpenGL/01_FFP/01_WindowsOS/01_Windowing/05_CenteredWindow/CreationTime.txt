@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+
+{
+	DIR : 01_GetSystemMetrics
+	Date : Monday - February 24, 2025 - 11:22:20:410 PM
+}
+
+{
+	DIR : 02_SystemParameterInfo
+	Date : Monday - February 24, 2025 - 11:22:29:390 PM
+}
+=======
+
+{
+	DIR : 01_GetSystemMetrics
+	Date : Monday - February 24, 2025 - 11:22:20:410 PM
+}
+
+{
+	DIR : 02_SystemParameterInfo
+	Date : Monday - February 24, 2025 - 11:22:29:390 PM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - March 1, 2025 - 1:54:21:742 PM
+}
+>>>>>>> parent of 29efdfc (10:30 PM - 07-June-2025 - XWindows Codes & Window-05-Assignments)

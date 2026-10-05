@@ -1,0 +1,10 @@
+
+{
+	DIR : 01_Triangle
+	Date : Thursday - March 20, 2025 - 12:47:27:285 AM
+}
+
+{
+	DIR : 02_Rectangle
+	Date : Thursday - March 20, 2025 - 12:47:33:232 AM
+}

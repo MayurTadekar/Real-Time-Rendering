@@ -1,0 +1,21 @@
+Window Started Successfully
+ Entered initialize().printGLInfo(): OpenGL Information
+***********************************
+printGLInfo(): OpenGL Vendor
+printGLInfo(): OpenGL Renderer
+printGLInfo(): OpenGL Version
+***********************************
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+ Exit initialize().LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().
+LOG >>>  Entered Resize().
+LOG >>>  Exit Resize().

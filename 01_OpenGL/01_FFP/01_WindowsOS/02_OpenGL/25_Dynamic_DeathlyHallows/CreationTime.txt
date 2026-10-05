@@ -1,0 +1,50 @@
+
+{
+	FILE : build.bat
+	Date : Tuesday - April 22, 2025 - 10:47:1:996 AM
+}
+
+{
+	FILE : deathly_hallows.wav
+	Date : Monday - April 28, 2025 - 8:51:25:984 PM
+}
+
+{
+	FILE : LogFile.txt
+	Date : Tuesday - April 22, 2025 - 10:47:1:999 AM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Tuesday - April 22, 2025 - 10:47:2:0 AM
+}
+
+{
+	FILE : OGL.c
+	Date : Tuesday - April 22, 2025 - 10:47:2:3 AM
+}
+
+{
+	FILE : OGL.exe
+	Date : Monday - June 23, 2025 - 11:2:18:159 AM
+}
+
+{
+	FILE : OGL.h
+	Date : Tuesday - April 22, 2025 - 10:47:2:5 AM
+}
+
+{
+	FILE : OGL.obj
+	Date : Monday - June 23, 2025 - 11:2:18:159 AM
+}
+
+{
+	FILE : OGL.rc
+	Date : Tuesday - April 22, 2025 - 10:47:2:6 AM
+}
+
+{
+	FILE : OGL.res
+	Date : Monday - June 23, 2025 - 11:2:18:160 AM
+}

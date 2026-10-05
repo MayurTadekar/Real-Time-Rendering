@@ -1,0 +1,98 @@
+<<<<<<< HEAD
+
+{
+	FILE : build.bat
+	Date : Monday - June 23, 2025 - 11:2:17:831 AM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Monday - June 23, 2025 - 11:2:17:832 AM
+}
+
+{
+	FILE : Screenshot 2025-04-26 130526.png
+	Date : Saturday - April 26, 2025 - 1:5:36:825 PM
+}
+
+{
+	FILE : window.c
+	Date : Monday - June 23, 2025 - 11:2:17:833 AM
+}
+
+{
+	FILE : window.exe
+	Date : Monday - June 23, 2025 - 11:2:17:833 AM
+}
+
+{
+	FILE : window.h
+	Date : Monday - June 23, 2025 - 11:2:17:834 AM
+}
+
+{
+	FILE : window.obj
+	Date : Monday - June 23, 2025 - 11:2:17:834 AM
+}
+
+{
+	FILE : window.rc
+	Date : Monday - June 23, 2025 - 11:2:17:834 AM
+}
+
+{
+	FILE : window.res
+	Date : Monday - June 23, 2025 - 11:2:17:835 AM
+}
+=======
+
+{
+	FILE : build.bat
+	Date : Monday - February 17, 2025 - 10:1:47:839 AM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Monday - February 17, 2025 - 10:1:47:834 AM
+}
+
+{
+	FILE : output.png
+	Date : Monday - February 17, 2025 - 10:53:35:645 AM
+}
+
+{
+	FILE : window.c
+	Date : Monday - February 17, 2025 - 10:1:47:828 AM
+}
+
+{
+	FILE : window.exe
+	Date : Monday - February 17, 2025 - 10:1:47:826 AM
+}
+
+{
+	FILE : window.h
+	Date : Monday - February 17, 2025 - 10:1:47:833 AM
+}
+
+{
+	FILE : window.obj
+	Date : Monday - February 17, 2025 - 10:1:47:824 AM
+}
+
+{
+	FILE : window.rc
+	Date : Monday - February 17, 2025 - 10:1:47:837 AM
+}
+
+{
+	FILE : window.res
+	Date : Monday - February 17, 2025 - 10:1:47:831 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Monday - February 17, 2025 - 10:59:36:389 AM
+}
+>>>>>>> parent of 29efdfc (10:30 PM - 07-June-2025 - XWindows Codes & Window-05-Assignments)

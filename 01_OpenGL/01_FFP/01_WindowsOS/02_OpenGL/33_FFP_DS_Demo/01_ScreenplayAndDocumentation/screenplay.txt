@@ -1,0 +1,13 @@
+Visuals
+A simple white cartoon character rides a yellow scooter.
+Red heart icon appears on the scooter body.
+Motion lines and small floating bubble-like shapes create movement.
+Minimalistic white background.
+
+Actions
+Continuous riding animation loop.
+Character maintains cheerful facial expression.
+Scooter movement appears smooth and stable.
+
+Summary
+A short developer showcase video demonstrating compilation and execution of a simple, cute 2D scooter animation project.

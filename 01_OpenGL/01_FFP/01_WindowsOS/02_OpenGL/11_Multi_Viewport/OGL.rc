@@ -1,0 +1,6 @@
+
+
+#include "OGL.h"
+
+MY_LOGO	ICON	".\\mylogo.ico"
+

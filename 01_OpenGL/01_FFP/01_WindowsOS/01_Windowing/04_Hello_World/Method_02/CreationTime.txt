@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+
+{
+	FILE : output.png
+	Date : Monday - June 23, 2025 - 11:2:17:809 AM
+}
+
+{
+	FILE : window.c
+	Date : Monday - June 23, 2025 - 11:2:17:809 AM
+}
+
+{
+	FILE : window.exe
+	Date : Monday - June 23, 2025 - 11:2:17:810 AM
+}
+
+{
+	FILE : window.obj
+	Date : Monday - June 23, 2025 - 11:2:17:810 AM
+}
+=======
+
+{
+	FILE : output.png
+	Date : Friday - January 31, 2025 - 9:10:27:211 PM
+}
+
+{
+	FILE : window.c
+	Date : Friday - January 31, 2025 - 9:0:8:471 PM
+}
+
+{
+	FILE : window.exe
+	Date : Friday - January 31, 2025 - 9:0:8:469 PM
+}
+
+{
+	FILE : window.obj
+	Date : Friday - January 31, 2025 - 9:0:8:467 PM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Friday - January 31, 2025 - 9:12:37:246 PM
+}
+>>>>>>> parent of 29efdfc (10:30 PM - 07-June-2025 - XWindows Codes & Window-05-Assignments)

@@ -1,0 +1,6 @@
+
+
+#define	MY_LOGO	1996
+
+#define	IDBITMAP_SMILEY	101
+

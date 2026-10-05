@@ -1,0 +1,33 @@
+Log file is successfully opened
+Graphics Card Name = NVIDIA GeForce RTX 4060
+Graphic Card VRAM = -1073741824 bytes
+VRAM in GB = 3
+PrintD3DInfo() succeeded
+D3D11CreateDeviceAndSwapChain() succeeded
+The Chosen Driver Is Of Hardware Type
+The Supported Highest Feature Level Is 11.0
+D3DCompile() Succeeded For Vertex Shader
+ID3D11Device::CreateVertexShader() Succeeded
+D3DCompile() Succeeded For Pixel Shader
+ID3D11Device::CreatePixelShader() Succeeded
+ID3D11Device::CreateInputLayout() Succeeded
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer
+ID3D11Device::CreateBuffer() Succeeded For Normal Buffer
+ID3D11Device::CreateBuffer() Succeeded For Index Buffer
+ID3D11Device::CreateBuffer() Succeeded
+ID3D11Device::CreateRasterizerState() Succeeded
+ID3D11Device::CreateRenderTargetView() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+resize() succeeded
+initialize() succeeded....
+ID3D11Device::CreateRenderTargetView() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+resize() succeeded
+ID3D11Device::CreateRenderTargetView() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+ID3D11Device::CreateTexture2D() succeeded
+resize() succeeded
+uninitialize() succeeded
+Log File is successfully closed

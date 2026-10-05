@@ -1,0 +1,143 @@
+<<<<<<< HEAD
+
+{
+	DIR : 01_Window
+	Date : Monday - February 17, 2025 - 9:58:52:890 AM
+}
+
+{
+	DIR : 02_MessageBox
+	Date : Sunday - January 26, 2025 - 0:27:41:468 AM
+}
+
+{
+	DIR : 03_MessageBoxWithString
+	Date : Saturday - March 1, 2025 - 1:47:37:610 PM
+}
+
+{
+	DIR : 04_Hello_World
+	Date : Friday - January 31, 2025 - 8:55:48:335 PM
+}
+
+{
+	DIR : 05_CenteredWindow
+	Date : Monday - February 24, 2025 - 11:19:20:928 PM
+}
+
+{
+	DIR : 06_Icon
+	Date : Monday - February 17, 2025 - 9:59:27:512 AM
+}
+
+{
+	DIR : 07_LogFile
+	Date : Sunday - February 9, 2025 - 10:24:45:728 PM
+}
+
+{
+	DIR : 08_FullScreen
+	Date : Sunday - February 9, 2025 - 10:24:16:239 PM
+}
+
+{
+	DIR : 09_ActiveWindow
+	Date : Monday - February 17, 2025 - 9:59:48:941 AM
+}
+
+{
+	DIR : 10_GameLoop
+	Date : Monday - February 24, 2025 - 11:54:22:189 PM
+}
+
+{
+	DIR : 11_BaseCode
+	Date : Saturday - March 1, 2025 - 2:29:54:167 PM
+}
+=======
+
+{
+	DIR : 01_Window
+	Date : Monday - February 17, 2025 - 9:58:52:890 AM
+}
+
+{
+	DIR : 02_MessageBox
+	Date : Sunday - January 26, 2025 - 0:27:41:468 AM
+}
+
+{
+	DIR : 03_Hello_World
+	Date : Friday - January 31, 2025 - 8:55:48:335 PM
+}
+
+{
+	DIR : 04_Icon
+	Date : Monday - February 17, 2025 - 9:59:27:512 AM
+}
+
+{
+	DIR : 05_FullScreen
+	Date : Sunday - February 9, 2025 - 10:24:16:239 PM
+}
+
+{
+	DIR : 06_LogFile
+	Date : Sunday - February 9, 2025 - 10:24:45:728 PM
+}
+
+{
+	DIR : 07_GameLoop
+	Date : Monday - February 17, 2025 - 9:59:48:941 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Monday - February 17, 2025 - 10:59:36:356 AM
+}
+
+{
+	DIR : 03_MessageBoxWithString
+	Date : Saturday - March 1, 2025 - 1:47:37:610 PM
+}
+
+{
+	DIR : 04_Hello_World
+	Date : Friday - January 31, 2025 - 8:55:48:335 PM
+}
+
+{
+	DIR : 05_CenteredWindow
+	Date : Monday - February 24, 2025 - 11:19:20:928 PM
+}
+
+{
+	DIR : 06_Icon
+	Date : Monday - February 17, 2025 - 9:59:27:512 AM
+}
+
+{
+	DIR : 07_LogFile
+	Date : Sunday - February 9, 2025 - 10:24:45:728 PM
+}
+
+{
+	DIR : 08_FullScreen
+	Date : Sunday - February 9, 2025 - 10:24:16:239 PM
+}
+
+{
+	DIR : 09_ActiveWindow
+	Date : Monday - February 17, 2025 - 9:59:48:941 AM
+}
+
+{
+	DIR : 10_GameLoop
+	Date : Monday - February 24, 2025 - 11:54:22:189 PM
+}
+
+{
+	DIR : 11_BaseCode
+	Date : Saturday - March 1, 2025 - 2:29:54:167 PM
+}
+>>>>>>> parent of 29efdfc (10:30 PM - 07-June-2025 - XWindows Codes & Window-05-Assignments)

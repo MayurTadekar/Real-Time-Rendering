@@ -1,0 +1,50 @@
+
+{
+	FILE : Maams_Challenge.c
+	Date : Tuesday - January 14, 2025 - 7:20:2:867 PM
+}
+
+{
+	FILE : Maams_Challenge.exe
+	Date : Tuesday - January 14, 2025 - 11:22:7:492 PM
+}
+
+{
+	FILE : Maams_Challenge.mp4
+	Date : Wednesday - January 15, 2025 - 4:56:13:419 AM
+}
+
+{
+	FILE : Maams_Challenge.obj
+	Date : Tuesday - January 14, 2025 - 7:22:54:667 PM
+}
+
+{
+	FILE : Output.mp4
+	Date : Wednesday - January 15, 2025 - 5:0:0:503 AM
+}
+
+{
+	FILE : palva_palvi.c
+	Date : Tuesday - January 14, 2025 - 7:24:55:52 PM
+}
+
+{
+	FILE : palva_palvi.h
+	Date : Tuesday - January 14, 2025 - 7:36:45:970 PM
+}
+
+{
+	FILE : palva_palvi.obj
+	Date : Tuesday - January 14, 2025 - 7:46:45:503 PM
+}
+
+{
+	FILE : run.bat
+	Date : Tuesday - January 14, 2025 - 7:21:29:352 PM
+}
+
+{
+	FILE : song.wav
+	Date : Wednesday - January 15, 2025 - 4:58:2:534 AM
+}

@@ -1,0 +1,11 @@
+2026-01-16 13:49:27 +0000 : MyView initWithFrame called
+2026-01-16 13:49:27 +0000 : Application Did Finish Launching
+2026-01-16 13:49:27 +0000 : Mouse Left Button Clicked
+2026-01-16 13:49:27 +0000 : Key Pressed: 97
+2026-01-16 13:49:28 +0000 : Key Pressed: 115
+2026-01-16 13:49:28 +0000 : Key Pressed: 100
+2026-01-16 13:49:28 +0000 : Key Pressed: 102
+2026-01-16 13:49:28 +0000 : Key Pressed: 119
+2026-01-16 13:49:29 +0000 : Key Pressed: 101
+2026-01-16 13:49:29 +0000 : Key Pressed: 102
+2026-01-16 13:49:30 +0000 : Application Will Terminate

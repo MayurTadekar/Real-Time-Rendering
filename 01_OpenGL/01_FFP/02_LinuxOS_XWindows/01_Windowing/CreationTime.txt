@@ -1,0 +1,30 @@
+
+{
+	DIR : 01_Window
+	Date : Sunday - June 1, 2025 - 11:28:15:61 PM
+}
+
+{
+	DIR : 02_Centered_Window
+	Date : Sunday - June 1, 2025 - 11:28:15:62 PM
+}
+
+{
+	DIR : 03_Messages
+	Date : Sunday - June 1, 2025 - 11:28:15:62 PM
+}
+
+{
+	DIR : 04_FullScreen
+	Date : Sunday - June 1, 2025 - 11:28:15:62 PM
+}
+
+{
+	DIR : 05_Hello_World
+	Date : Sunday - June 1, 2025 - 11:28:15:62 PM
+}
+
+{
+	DIR : 06_LogFile
+	Date : Sunday - June 1, 2025 - 11:36:5:983 PM
+}

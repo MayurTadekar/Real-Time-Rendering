@@ -1,0 +1,170 @@
+
+{
+	DIR : 01_Bluescreen
+	Date : Sunday - February 23, 2025 - 9:20:7:794 PM
+}
+
+{
+	DIR : 02_GLTriangleWithoutGLUT
+	Date : Sunday - February 23, 2025 - 9:34:10:732 PM
+}
+
+{
+	DIR : 03_GLInfo
+	Date : Thursday - March 27, 2025 - 0:33:29:669 AM
+}
+
+{
+	DIR : 04_Ortho
+	Date : Thursday - March 20, 2025 - 12:45:6:628 AM
+}
+
+{
+	DIR : 05_Perspective
+	Date : Thursday - March 20, 2025 - 12:45:12:573 AM
+}
+
+{
+	DIR : 06_2DRotation
+	Date : Thursday - March 20, 2025 - 12:45:48:532 AM
+}
+
+{
+	DIR : 07_3D_Rotation
+	Date : Sunday - March 23, 2025 - 0:25:53:321 AM
+}
+
+{
+	DIR : 08_Depth_Template
+	Date : Wednesday - March 26, 2025 - 11:35:22:778 PM
+}
+
+{
+	DIR : 09_LookAt
+	Date : Wednesday - March 26, 2025 - 11:34:30:504 PM
+}
+
+{
+	DIR : 10_Manual_Transformation
+	Date : Tuesday - April 22, 2025 - 0:39:12:52 AM
+}
+
+{
+	DIR : 11_Multi_Viewport
+	Date : Tuesday - April 22, 2025 - 0:40:11:894 AM
+}
+
+{
+	DIR : 12_Pattern
+	Date : Tuesday - April 22, 2025 - 0:40:56:116 AM
+}
+
+{
+	DIR : 13_Camera_Rotation
+	Date : Tuesday - April 22, 2025 - 0:40:56:74 AM
+}
+
+{
+	DIR : 14_Point_At_Center
+	Date : Tuesday - April 22, 2025 - 1:6:23:537 AM
+}
+
+{
+	DIR : 15_RedHorizontalLine
+	Date : Tuesday - April 22, 2025 - 1:9:30:544 AM
+}
+
+{
+	DIR : 16_GreenVerticalLine
+	Date : Tuesday - April 22, 2025 - 1:13:15:332 AM
+}
+
+{
+	DIR : 17_BlueHorizontalLines
+	Date : Tuesday - April 22, 2025 - 1:16:4:190 AM
+}
+
+{
+	DIR : 18_BlueVerticalLines
+	Date : Tuesday - April 22, 2025 - 1:27:1:958 AM
+}
+
+{
+	DIR : 19_GraphPaperWithShapes
+	Date : Tuesday - April 22, 2025 - 1:28:20:624 AM
+}
+
+{
+	DIR : 20_Kundali
+	Date : Tuesday - April 22, 2025 - 2:0:14:112 AM
+}
+
+{
+	DIR : 21_ConcentricTriangle
+	Date : Tuesday - April 22, 2025 - 2:8:25:439 AM
+}
+
+{
+	DIR : 22_ConcentricSquare
+	Date : Tuesday - April 22, 2025 - 2:8:25:452 AM
+}
+
+{
+	DIR : 23_ConcentricCircle
+	Date : Tuesday - April 22, 2025 - 2:8:25:465 AM
+}
+
+{
+	DIR : 24_Static_DeathlyHallows
+	Date : Tuesday - April 22, 2025 - 10:26:32:325 AM
+}
+
+{
+	DIR : 25_Dynamic_DeathlyHallows
+	Date : Tuesday - April 22, 2025 - 10:47:1:994 AM
+}
+
+{
+	DIR : 26_Static_Bharat
+	Date : Thursday - April 24, 2025 - 1:47:57:365 PM
+}
+
+{
+	DIR : 27_Dynamic_Bharat
+	Date : Thursday - April 24, 2025 - 1:54:31:70 PM
+}
+
+{
+	DIR : 28_PushPop_Matrix
+	Date : Saturday - April 26, 2025 - 3:14:11:67 PM
+}
+
+{
+	DIR : 29_Texture
+	Date : Saturday - April 26, 2025 - 3:14:20:428 PM
+}
+
+{
+	DIR : 30_White_Sphere
+	Date : Saturday - April 26, 2025 - 3:14:26:24 PM
+}
+
+{
+	DIR : 31_Lights
+	Date : Saturday - April 26, 2025 - 4:15:24:294 PM
+}
+
+{
+	DIR : 32_FFP_Effects
+	Date : Friday - June 20, 2025 - 8:5:53:160 PM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Monday - June 23, 2025 - 11:4:1:670 AM
+}
+
+{
+	FILE : OUTPUT.txt
+	Date : Sunday - April 27, 2025 - 8:37:0:492 PM
+}

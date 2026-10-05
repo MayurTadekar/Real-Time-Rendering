@@ -1,0 +1,40 @@
+
+{
+	DIR : 01_Diffuse_Light
+	Date : Saturday - April 26, 2025 - 10:41:43:179 PM
+}
+
+{
+	DIR : 02_Goraud_Shading
+	Date : Saturday - April 26, 2025 - 10:42:17:528 PM
+}
+
+{
+	DIR : 03_Two_Lights_OnSpinning_Pyramid
+	Date : Saturday - April 26, 2025 - 10:43:16:688 PM
+}
+
+{
+	DIR : 04_Three_Moving_Lights_On_Steady_Sphere
+	Date : Saturday - April 26, 2025 - 10:43:28:773 PM
+}
+
+{
+	DIR : 05_24_Spheres_Materials
+	Date : Saturday - April 26, 2025 - 10:43:47:367 PM
+}
+
+{
+	DIR : 05_Spot_light
+	Date : Monday - June 23, 2025 - 11:2:18:218 AM
+}
+
+{
+	DIR : 06_Spot_light
+	Date : Saturday - April 26, 2025 - 10:44:29:364 PM
+}
+
+{
+	DIR : 07_Teapot_Model_With_Texture_and_Light
+	Date : Saturday - April 26, 2025 - 10:47:33:948 PM
+}

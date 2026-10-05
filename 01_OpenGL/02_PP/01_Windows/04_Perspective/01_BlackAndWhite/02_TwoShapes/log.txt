@@ -1,0 +1,823 @@
+LOG: Window Started Successfully
+
+LOG:  Entered Resize().
+LOG:  Entered Initialize().
+INFO: OpenGL Renderer: NVIDIA GeForce RTX 4060/PCIe/SSE2
+INFO: OpenGL Version: 4.6.0 NVIDIA 576.02
+INFO: GLSL Version: 4.60 NVIDIA
+INFO: GLEW Version: 2.1.0
+INFO: Extension Counts: 404
+INFO: GL_AMD_multi_draw_indirect
+
+INFO: GL_AMD_seamless_cubemap_per_texture
+
+INFO: GL_AMD_vertex_shader_viewport_index
+
+INFO: GL_AMD_vertex_shader_layer
+
+INFO: GL_ARB_arrays_of_arrays
+
+INFO: GL_ARB_base_instance
+
+INFO: GL_ARB_bindless_texture
+
+INFO: GL_ARB_blend_func_extended
+
+INFO: GL_ARB_buffer_storage
+
+INFO: GL_ARB_clear_buffer_object
+
+INFO: GL_ARB_clear_texture
+
+INFO: GL_ARB_clip_control
+
+INFO: GL_ARB_color_buffer_float
+
+INFO: GL_ARB_compatibility
+
+INFO: GL_ARB_compressed_texture_pixel_storage
+
+INFO: GL_ARB_conservative_depth
+
+INFO: GL_ARB_compute_shader
+
+INFO: GL_ARB_compute_variable_group_size
+
+INFO: GL_ARB_conditional_render_inverted
+
+INFO: GL_ARB_copy_buffer
+
+INFO: GL_ARB_copy_image
+
+INFO: GL_ARB_cull_distance
+
+INFO: GL_ARB_debug_output
+
+INFO: GL_ARB_depth_buffer_float
+
+INFO: GL_ARB_depth_clamp
+
+INFO: GL_ARB_depth_texture
+
+INFO: GL_ARB_derivative_control
+
+INFO: GL_ARB_direct_state_access
+
+INFO: GL_ARB_draw_buffers
+
+INFO: GL_ARB_draw_buffers_blend
+
+INFO: GL_ARB_draw_indirect
+
+INFO: GL_ARB_draw_elements_base_vertex
+
+INFO: GL_ARB_draw_instanced
+
+INFO: GL_ARB_enhanced_layouts
+
+INFO: GL_ARB_ES2_compatibility
+
+INFO: GL_ARB_ES3_compatibility
+
+INFO: GL_ARB_ES3_1_compatibility
+
+INFO: GL_ARB_ES3_2_compatibility
+
+INFO: GL_ARB_explicit_attrib_location
+
+INFO: GL_ARB_explicit_uniform_location
+
+INFO: GL_ARB_fragment_coord_conventions
+
+INFO: GL_ARB_fragment_layer_viewport
+
+INFO: GL_ARB_fragment_program
+
+INFO: GL_ARB_fragment_program_shadow
+
+INFO: GL_ARB_fragment_shader
+
+INFO: GL_ARB_fragment_shader_interlock
+
+INFO: GL_ARB_framebuffer_no_attachments
+
+INFO: GL_ARB_framebuffer_object
+
+INFO: GL_ARB_framebuffer_sRGB
+
+INFO: GL_ARB_geometry_shader4
+
+INFO: GL_ARB_get_program_binary
+
+INFO: GL_ARB_get_texture_sub_image
+
+INFO: GL_ARB_gl_spirv
+
+INFO: GL_ARB_gpu_shader5
+
+INFO: GL_ARB_gpu_shader_fp64
+
+INFO: GL_ARB_gpu_shader_int64
+
+INFO: GL_ARB_half_float_pixel
+
+INFO: GL_ARB_half_float_vertex
+
+INFO: GL_ARB_imaging
+
+INFO: GL_ARB_indirect_parameters
+
+INFO: GL_ARB_instanced_arrays
+
+INFO: GL_ARB_internalformat_query
+
+INFO: GL_ARB_internalformat_query2
+
+INFO: GL_ARB_invalidate_subdata
+
+INFO: GL_ARB_map_buffer_alignment
+
+INFO: GL_ARB_map_buffer_range
+
+INFO: GL_ARB_multi_bind
+
+INFO: GL_ARB_multi_draw_indirect
+
+INFO: GL_ARB_multisample
+
+INFO: GL_ARB_multitexture
+
+INFO: GL_ARB_occlusion_query
+
+INFO: GL_ARB_occlusion_query2
+
+INFO: GL_ARB_parallel_shader_compile
+
+INFO: GL_ARB_pipeline_statistics_query
+
+INFO: GL_ARB_pixel_buffer_object
+
+INFO: GL_ARB_point_parameters
+
+INFO: GL_ARB_point_sprite
+
+INFO: GL_ARB_polygon_offset_clamp
+
+INFO: GL_ARB_post_depth_coverage
+
+INFO: GL_ARB_program_interface_query
+
+INFO: GL_ARB_provoking_vertex
+
+INFO: GL_ARB_query_buffer_object
+
+INFO: GL_ARB_robust_buffer_access_behavior
+
+INFO: GL_ARB_robustness
+
+INFO: GL_ARB_sample_locations
+
+INFO: GL_ARB_sample_shading
+
+INFO: GL_ARB_sampler_objects
+
+INFO: GL_ARB_seamless_cube_map
+
+INFO: GL_ARB_seamless_cubemap_per_texture
+
+INFO: GL_ARB_separate_shader_objects
+
+INFO: GL_ARB_shader_atomic_counter_ops
+
+INFO: GL_ARB_shader_atomic_counters
+
+INFO: GL_ARB_shader_ballot
+
+INFO: GL_ARB_shader_bit_encoding
+
+INFO: GL_ARB_shader_clock
+
+INFO: GL_ARB_shader_draw_parameters
+
+INFO: GL_ARB_shader_group_vote
+
+INFO: GL_ARB_shader_image_load_store
+
+INFO: GL_ARB_shader_image_size
+
+INFO: GL_ARB_shader_objects
+
+INFO: GL_ARB_shader_precision
+
+INFO: GL_ARB_shader_storage_buffer_object
+
+INFO: GL_ARB_shader_subroutine
+
+INFO: GL_ARB_shader_texture_image_samples
+
+INFO: GL_ARB_shader_texture_lod
+
+INFO: GL_ARB_shading_language_100
+
+INFO: GL_ARB_shader_viewport_layer_array
+
+INFO: GL_ARB_shading_language_420pack
+
+INFO: GL_ARB_shading_language_include
+
+INFO: GL_ARB_shading_language_packing
+
+INFO: GL_ARB_shadow
+
+INFO: GL_ARB_sparse_buffer
+
+INFO: GL_ARB_sparse_texture
+
+INFO: GL_ARB_sparse_texture2
+
+INFO: GL_ARB_sparse_texture_clamp
+
+INFO: GL_ARB_spirv_extensions
+
+INFO: GL_ARB_stencil_texturing
+
+INFO: GL_ARB_sync
+
+INFO: GL_ARB_tessellation_shader
+
+INFO: GL_ARB_texture_barrier
+
+INFO: GL_ARB_texture_border_clamp
+
+INFO: GL_ARB_texture_buffer_object
+
+INFO: GL_ARB_texture_buffer_object_rgb32
+
+INFO: GL_ARB_texture_buffer_range
+
+INFO: GL_ARB_texture_compression
+
+INFO: GL_ARB_texture_compression_bptc
+
+INFO: GL_ARB_texture_compression_rgtc
+
+INFO: GL_ARB_texture_cube_map
+
+INFO: GL_ARB_texture_cube_map_array
+
+INFO: GL_ARB_texture_env_add
+
+INFO: GL_ARB_texture_env_combine
+
+INFO: GL_ARB_texture_env_crossbar
+
+INFO: GL_ARB_texture_env_dot3
+
+INFO: GL_ARB_texture_filter_anisotropic
+
+INFO: GL_ARB_texture_filter_minmax
+
+INFO: GL_ARB_texture_float
+
+INFO: GL_ARB_texture_gather
+
+INFO: GL_ARB_texture_mirror_clamp_to_edge
+
+INFO: GL_ARB_texture_mirrored_repeat
+
+INFO: GL_ARB_texture_multisample
+
+INFO: GL_ARB_texture_non_power_of_two
+
+INFO: GL_ARB_texture_query_levels
+
+INFO: GL_ARB_texture_query_lod
+
+INFO: GL_ARB_texture_rectangle
+
+INFO: GL_ARB_texture_rg
+
+INFO: GL_ARB_texture_rgb10_a2ui
+
+INFO: GL_ARB_texture_stencil8
+
+INFO: GL_ARB_texture_storage
+
+INFO: GL_ARB_texture_storage_multisample
+
+INFO: GL_ARB_texture_swizzle
+
+INFO: GL_ARB_texture_view
+
+INFO: GL_ARB_timer_query
+
+INFO: GL_ARB_transform_feedback2
+
+INFO: GL_ARB_transform_feedback3
+
+INFO: GL_ARB_transform_feedback_instanced
+
+INFO: GL_ARB_transform_feedback_overflow_query
+
+INFO: GL_ARB_transpose_matrix
+
+INFO: GL_ARB_uniform_buffer_object
+
+INFO: GL_ARB_vertex_array_bgra
+
+INFO: GL_ARB_vertex_array_object
+
+INFO: GL_ARB_vertex_attrib_64bit
+
+INFO: GL_ARB_vertex_attrib_binding
+
+INFO: GL_ARB_vertex_buffer_object
+
+INFO: GL_ARB_vertex_program
+
+INFO: GL_ARB_vertex_shader
+
+INFO: GL_ARB_vertex_type_10f_11f_11f_rev
+
+INFO: GL_ARB_vertex_type_2_10_10_10_rev
+
+INFO: GL_ARB_viewport_array
+
+INFO: GL_ARB_window_pos
+
+INFO: GL_ATI_draw_buffers
+
+INFO: GL_ATI_texture_float
+
+INFO: GL_ATI_texture_mirror_once
+
+INFO: GL_S3_s3tc
+
+INFO: GL_EXT_texture_env_add
+
+INFO: GL_EXT_abgr
+
+INFO: GL_EXT_bgra
+
+INFO: GL_EXT_bindable_uniform
+
+INFO: GL_EXT_blend_color
+
+INFO: GL_EXT_blend_equation_separate
+
+INFO: GL_EXT_blend_func_separate
+
+INFO: GL_EXT_blend_minmax
+
+INFO: GL_EXT_blend_subtract
+
+INFO: GL_EXT_compiled_vertex_array
+
+INFO: GL_EXT_Cg_shader
+
+INFO: GL_EXT_depth_bounds_test
+
+INFO: GL_EXT_direct_state_access
+
+INFO: GL_EXT_draw_buffers2
+
+INFO: GL_EXT_draw_instanced
+
+INFO: GL_EXT_draw_range_elements
+
+INFO: GL_EXT_fog_coord
+
+INFO: GL_EXT_framebuffer_blit
+
+INFO: GL_EXT_framebuffer_multisample
+
+INFO: GL_EXTX_framebuffer_mixed_formats
+
+INFO: GL_EXT_framebuffer_multisample_blit_scaled
+
+INFO: GL_EXT_framebuffer_object
+
+INFO: GL_EXT_framebuffer_sRGB
+
+INFO: GL_EXT_geometry_shader4
+
+INFO: GL_EXT_gpu_program_parameters
+
+INFO: GL_EXT_gpu_shader4
+
+INFO: GL_EXT_multi_draw_arrays
+
+INFO: GL_EXT_multiview_texture_multisample
+
+INFO: GL_EXT_multiview_timer_query
+
+INFO: GL_EXT_packed_depth_stencil
+
+INFO: GL_EXT_packed_float
+
+INFO: GL_EXT_packed_pixels
+
+INFO: GL_EXT_pixel_buffer_object
+
+INFO: GL_EXT_point_parameters
+
+INFO: GL_EXT_polygon_offset_clamp
+
+INFO: GL_EXT_post_depth_coverage
+
+INFO: GL_EXT_provoking_vertex
+
+INFO: GL_EXT_raster_multisample
+
+INFO: GL_EXT_rescale_normal
+
+INFO: GL_EXT_secondary_color
+
+INFO: GL_EXT_separate_shader_objects
+
+INFO: GL_EXT_separate_specular_color
+
+INFO: GL_EXT_shader_image_load_formatted
+
+INFO: GL_EXT_shader_image_load_store
+
+INFO: GL_EXT_shader_integer_mix
+
+INFO: GL_EXT_shadow_funcs
+
+INFO: GL_EXT_sparse_texture2
+
+INFO: GL_EXT_stencil_two_side
+
+INFO: GL_EXT_stencil_wrap
+
+INFO: GL_EXT_texture3D
+
+INFO: GL_EXT_texture_array
+
+INFO: GL_EXT_texture_buffer_object
+
+INFO: GL_EXT_texture_compression_dxt1
+
+INFO: GL_EXT_texture_compression_latc
+
+INFO: GL_EXT_texture_compression_rgtc
+
+INFO: GL_EXT_texture_compression_s3tc
+
+INFO: GL_EXT_texture_cube_map
+
+INFO: GL_EXT_texture_edge_clamp
+
+INFO: GL_EXT_texture_env_combine
+
+INFO: GL_EXT_texture_env_dot3
+
+INFO: GL_EXT_texture_filter_anisotropic
+
+INFO: GL_EXT_texture_filter_minmax
+
+INFO: GL_EXT_texture_integer
+
+INFO: GL_EXT_texture_lod
+
+INFO: GL_EXT_texture_lod_bias
+
+INFO: GL_EXT_texture_mirror_clamp
+
+INFO: GL_EXT_texture_object
+
+INFO: GL_EXT_texture_shadow_lod
+
+INFO: GL_EXT_texture_shared_exponent
+
+INFO: GL_EXT_texture_sRGB
+
+INFO: GL_EXT_texture_sRGB_R8
+
+INFO: GL_EXT_texture_sRGB_decode
+
+INFO: GL_EXT_texture_storage
+
+INFO: GL_EXT_texture_swizzle
+
+INFO: GL_EXT_timer_query
+
+INFO: GL_EXT_transform_feedback2
+
+INFO: GL_EXT_vertex_array
+
+INFO: GL_EXT_vertex_array_bgra
+
+INFO: GL_EXT_vertex_attrib_64bit
+
+INFO: GL_EXT_window_rectangles
+
+INFO: GL_EXT_import_sync_object
+
+INFO: GL_IBM_rasterpos_clip
+
+INFO: GL_IBM_texture_mirrored_repeat
+
+INFO: GL_KHR_context_flush_control
+
+INFO: GL_KHR_debug
+
+INFO: GL_EXT_memory_object
+
+INFO: GL_EXT_memory_object_win32
+
+INFO: GL_NV_memory_object_sparse
+
+INFO: GL_EXT_win32_keyed_mutex
+
+INFO: GL_KHR_parallel_shader_compile
+
+INFO: GL_KHR_no_error
+
+INFO: GL_KHR_robust_buffer_access_behavior
+
+INFO: GL_KHR_robustness
+
+INFO: GL_EXT_semaphore
+
+INFO: GL_EXT_semaphore_win32
+
+INFO: GL_NV_timeline_semaphore
+
+INFO: GL_KHR_shader_subgroup
+
+INFO: GL_KTX_buffer_region
+
+INFO: GL_NV_alpha_to_coverage_dither_control
+
+INFO: GL_NV_bindless_multi_draw_indirect
+
+INFO: GL_NV_bindless_multi_draw_indirect_count
+
+INFO: GL_NV_bindless_texture
+
+INFO: GL_NV_blend_equation_advanced
+
+INFO: GL_NV_blend_equation_advanced_coherent
+
+INFO: GL_NVX_blend_equation_advanced_multi_draw_buffers
+
+INFO: GL_NV_blend_minmax_factor
+
+INFO: GL_NV_blend_square
+
+INFO: GL_NV_clip_space_w_scaling
+
+INFO: GL_NV_command_list
+
+INFO: GL_NV_compute_program5
+
+INFO: GL_NV_compute_shader_derivatives
+
+INFO: GL_NV_conditional_render
+
+INFO: GL_NV_conservative_raster
+
+INFO: GL_NV_conservative_raster_dilate
+
+INFO: GL_NV_conservative_raster_pre_snap
+
+INFO: GL_NV_conservative_raster_pre_snap_triangles
+
+INFO: GL_NV_conservative_raster_underestimation
+
+INFO: GL_NV_copy_depth_to_color
+
+INFO: GL_NV_copy_image
+
+INFO: GL_NV_depth_buffer_float
+
+INFO: GL_NV_depth_clamp
+
+INFO: GL_NV_draw_texture
+
+INFO: GL_NV_draw_vulkan_image
+
+INFO: GL_NV_ES1_1_compatibility
+
+INFO: GL_NV_ES3_1_compatibility
+
+INFO: GL_NV_explicit_multisample
+
+INFO: GL_NV_feature_query
+
+INFO: GL_NV_fence
+
+INFO: GL_NV_fill_rectangle
+
+INFO: GL_NV_float_buffer
+
+INFO: GL_NV_fog_distance
+
+INFO: GL_NV_fragment_coverage_to_color
+
+INFO: GL_NV_fragment_program
+
+INFO: GL_NV_fragment_program_option
+
+INFO: GL_NV_fragment_program2
+
+INFO: GL_NV_fragment_shader_barycentric
+
+INFO: GL_NV_fragment_shader_interlock
+
+INFO: GL_NV_framebuffer_mixed_samples
+
+INFO: GL_NV_framebuffer_multisample_coverage
+
+INFO: GL_NV_geometry_shader4
+
+INFO: GL_NV_geometry_shader_passthrough
+
+INFO: GL_NV_gpu_program4
+
+INFO: GL_NV_internalformat_sample_query
+
+INFO: GL_NV_gpu_program4_1
+
+INFO: GL_NV_gpu_program5
+
+INFO: GL_NV_gpu_program5_mem_extended
+
+INFO: GL_NV_gpu_program_fp64
+
+INFO: GL_NV_gpu_program_multiview
+
+INFO: GL_NV_gpu_shader5
+
+INFO: GL_NV_half_float
+
+INFO: GL_NV_light_max_exponent
+
+INFO: GL_NV_memory_attachment
+
+INFO: GL_NV_mesh_shader
+
+INFO: GL_NV_multisample_coverage
+
+INFO: GL_NV_multisample_filter_hint
+
+INFO: GL_NV_occlusion_query
+
+INFO: GL_NV_packed_depth_stencil
+
+INFO: GL_NV_parameter_buffer_object
+
+INFO: GL_NV_parameter_buffer_object2
+
+INFO: GL_NV_path_rendering
+
+INFO: GL_NV_path_rendering_shared_edge
+
+INFO: GL_NV_pixel_data_range
+
+INFO: GL_NV_point_sprite
+
+INFO: GL_NV_primitive_restart
+
+INFO: GL_NV_primitive_shading_rate
+
+INFO: GL_NV_query_resource
+
+INFO: GL_NV_query_resource_tag
+
+INFO: GL_NV_register_combiners
+
+INFO: GL_NV_register_combiners2
+
+INFO: GL_NV_representative_fragment_test
+
+INFO: GL_NV_sample_locations
+
+INFO: GL_NV_sample_mask_override_coverage
+
+INFO: GL_NV_scissor_exclusive
+
+INFO: GL_NV_shader_atomic_counters
+
+INFO: GL_NV_shader_atomic_float
+
+INFO: GL_NV_shader_atomic_float64
+
+INFO: GL_NV_shader_atomic_fp16_vector
+
+INFO: GL_NV_shader_atomic_int64
+
+INFO: GL_NV_shader_buffer_load
+
+INFO: GL_NV_shader_storage_buffer_object
+
+INFO: GL_NV_shader_subgroup_partitioned
+
+INFO: GL_NV_shader_texture_footprint
+
+INFO: GL_NV_shading_rate_image
+
+INFO: GL_NV_stereo_view_rendering
+
+INFO: GL_NV_texgen_reflection
+
+INFO: GL_NV_texture_barrier
+
+INFO: GL_NV_texture_compression_vtc
+
+INFO: GL_NV_texture_dirty_tile_map
+
+INFO: GL_NV_texture_env_combine4
+
+INFO: GL_NV_texture_multisample
+
+INFO: GL_NV_texture_rectangle
+
+INFO: GL_NV_texture_rectangle_compressed
+
+INFO: GL_NV_texture_shader
+
+INFO: GL_NV_texture_shader2
+
+INFO: GL_NV_texture_shader3
+
+INFO: GL_NV_transform_feedback
+
+INFO: GL_NV_transform_feedback2
+
+INFO: GL_NV_uniform_buffer_unified_memory
+
+INFO: GL_NV_uniform_buffer_std430_layout
+
+INFO: GL_NV_vertex_array_range
+
+INFO: GL_NV_vertex_array_range2
+
+INFO: GL_NV_vertex_attrib_integer_64bit
+
+INFO: GL_NV_vertex_buffer_unified_memory
+
+INFO: GL_NV_vertex_program
+
+INFO: GL_NV_vertex_program1_1
+
+INFO: GL_NV_vertex_program2
+
+INFO: GL_NV_vertex_program2_option
+
+INFO: GL_NV_vertex_program3
+
+INFO: GL_NV_viewport_array2
+
+INFO: GL_NV_viewport_swizzle
+
+INFO: GL_NVX_conditional_render
+
+INFO: GL_NVX_linked_gpu_multicast
+
+INFO: GL_NV_gpu_multicast
+
+INFO: GL_NVX_gpu_multicast2
+
+INFO: GL_NVX_progress_fence
+
+INFO: GL_NVX_gpu_memory_info
+
+INFO: GL_NVX_multigpu_info
+
+INFO: GL_NVX_nvenc_interop
+
+INFO: GL_NV_shader_thread_group
+
+INFO: GL_NV_shader_thread_shuffle
+
+INFO: GL_KHR_blend_equation_advanced
+
+INFO: GL_KHR_blend_equation_advanced_coherent
+
+INFO: GL_OVR_multiview
+
+INFO: GL_OVR_multiview2
+
+INFO: GL_SGIS_generate_mipmap
+
+INFO: GL_SGIS_texture_lod
+
+INFO: GL_SGIX_depth_texture
+
+INFO: GL_SGIX_shadow
+
+INFO: GL_SUN_slice_accum
+
+INFO: GL_WIN_swap_hint
+
+INFO: WGL_EXT_swap_control
+
+LOG:  Entered Resize().
+LOG:  Exit Initialize().
+LOG: Initialize() Completed Successfully
+
+LOG: Program Terminated Successfully...
+

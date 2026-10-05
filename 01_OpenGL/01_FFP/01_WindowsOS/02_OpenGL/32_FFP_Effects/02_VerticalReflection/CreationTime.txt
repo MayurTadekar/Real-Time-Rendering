@@ -1,0 +1,55 @@
+
+{
+	FILE : build.bat
+	Date : Monday - June 23, 2025 - 11:2:18:238 AM
+}
+
+{
+	FILE : LogFile.txt
+	Date : Monday - June 23, 2025 - 11:2:18:231 AM
+}
+
+{
+	FILE : mirror.bmp
+	Date : Saturday - June 21, 2025 - 8:15:10:205 AM
+}
+
+{
+	FILE : mirror.jpg
+	Date : Saturday - June 21, 2025 - 8:14:9:479 AM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Saturday - June 21, 2025 - 8:10:53:796 AM
+}
+
+{
+	FILE : OGL.c
+	Date : Monday - June 23, 2025 - 11:2:18:231 AM
+}
+
+{
+	FILE : OGL.exe
+	Date : Monday - June 23, 2025 - 11:2:18:235 AM
+}
+
+{
+	FILE : OGL.h
+	Date : Monday - June 23, 2025 - 11:2:18:236 AM
+}
+
+{
+	FILE : OGL.obj
+	Date : Monday - June 23, 2025 - 11:2:18:236 AM
+}
+
+{
+	FILE : OGL.rc
+	Date : Monday - June 23, 2025 - 11:2:18:236 AM
+}
+
+{
+	FILE : OGL.res
+	Date : Monday - June 23, 2025 - 11:2:18:238 AM
+}

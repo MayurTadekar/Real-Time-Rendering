@@ -1,0 +1,55 @@
+
+{
+	FILE : build.bat
+	Date : Sunday - April 27, 2025 - 3:58:5:309 PM
+}
+
+{
+	FILE : kundali.bmp
+	Date : Sunday - April 27, 2025 - 4:49:33:341 PM
+}
+
+{
+	FILE : LogFile.txt
+	Date : Sunday - April 27, 2025 - 3:58:5:312 PM
+}
+
+{
+	FILE : mylogo.ico
+	Date : Sunday - April 27, 2025 - 3:58:5:313 PM
+}
+
+{
+	FILE : OGL.c
+	Date : Sunday - April 27, 2025 - 3:58:5:314 PM
+}
+
+{
+	FILE : OGL.exe
+	Date : Monday - June 23, 2025 - 11:2:18:186 AM
+}
+
+{
+	FILE : OGL.h
+	Date : Sunday - April 27, 2025 - 3:58:5:317 PM
+}
+
+{
+	FILE : OGL.obj
+	Date : Monday - June 23, 2025 - 11:2:18:186 AM
+}
+
+{
+	FILE : OGL.rc
+	Date : Sunday - April 27, 2025 - 3:58:5:319 PM
+}
+
+{
+	FILE : OGL.res
+	Date : Monday - June 23, 2025 - 11:2:18:188 AM
+}
+
+{
+	FILE : Stone.bmp
+	Date : Sunday - April 27, 2025 - 4:44:55:252 PM
+}

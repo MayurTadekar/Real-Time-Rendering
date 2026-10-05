@@ -1,0 +1,7 @@
+
+
+#define	MY_LOGO	1996
+
+#define	IDBITMAP_STONE		101
+#define	IDBITMAP_KUNDALI	102
+

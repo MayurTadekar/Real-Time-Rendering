@@ -1,0 +1,2 @@
+window started successfully
+program terminated successfully
